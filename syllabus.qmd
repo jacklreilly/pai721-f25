@@ -45,7 +45,7 @@ format:
 ### Quick Links
 - <i class="bi bi-easel"></i> **Blackboard:** <a href="http://blackboard.syr.edu" target="_blank">blackboard.syr.edu</a>  
 - <i class="bi bi-pc-display"></i> **Remote Desktop:** <a href="http://rds.syr.edu" target="_blank">rds.syr.edu</a>  
-- <i class="bi bi-journal-text"></i> **Syllabus & Materials:** [right here](syllabus.qmd)
+- <i class="bi bi-journal-text"></i> **Syllabus & Materials:** [right here](https://jacklreilly.github.io/pai721-f25/syllabus)
 :::
 :::
 
@@ -59,7 +59,7 @@ Students will learn how to use quantitative data and statistical tools to unders
 
 # Prerequisites
 
-Thorough understanding of high school algebra and geometry.
+A thorough understanding of high school algebra and geometry.
 
 # Materials
 
@@ -100,21 +100,16 @@ Please note, however, that this is primarily an in-person, not online, class, an
 
 Satisfactory completion of the course requires completion of the following:
 
-::: {.callout-important}
-
-### Required Work
 1. Regular course participation and attendance (10%)
-2. Assignments (20%)
+2. Weekly Assignments (20%)
 3. Practicum 1 (15%) 
 4. Midterm (20%)
 5. Practicum 2 (15%)
 6. Final (20%)
 
-:::
-
 ## Attendance
 
-One of the guiding principles of my class is that you are adults, and thus, capable of managing your own time. I have little interest in policing your lives. Attendance is kept for each day of class, but you will lose no points on attendance if you miss a couple days: everyone has things that occasionally come up in life that need to be dealt with, and I fully realize that some of those things are things you —- very understandably —- may not want to discuss with your professor. That's OK!
+One of the guiding principles of my class is that you are adults, and thus, capable of managing your own time. I have little interest in policing your lives. Attendance is kept for each day of class, but you will lose no points on attendance if you miss a couple days: everyone has things that occasionally come up in life that need to be dealt with, and I fully realize that some of those things are things you — very understandably — may not want to discuss with your professor. *That's OK!*
 
 That said, attendance in class is an important element to doing well in the course. If you miss more than a couple days, it's advisable to check in. (That way, I also won't mark your attendance grade off for chronic absenteeism.) The easiest way to do this is just email me with a brief reason when something comes up and you have to miss class (which will also allow me to tell you if you're missing anything particularly important).
 
@@ -122,27 +117,20 @@ If you must miss class, the way to make up what you've missed is straightforward
 
 ::: {.callout-note}
 ### Participation
-There is no formal grade for "participation".  However, I reserve the right to dock a couple points here if you do ridiculous/unprofessional things in class (like answering your cell phone loudly, always coming in late and regularly distracting others, spontaneously breaking out into ribald song in the middle of class, etc).
+There is no formal grade for "participation".  However, I reserve the right to dock a couple points here if you do ridiculous/unprofessional things in class (like answering your cell phone, always coming in late and regularly distracting others, spontaneously breaking out into ribald song in the middle of class, etc).
 
 :::
 
-## Assignments
+## Weekly Assignments
 
-There is an assignment each week in class, **due Friday at midnight**.[^friday] Assignments will vary in nature: some will be one-off problem sets, some may build on problem sets from a prior week. All material needed for an assignment will be covered by the Tuesday before the assignment is due, and the assignment itself will be posted no later than Tuesday of the week in question. There is **no penalty** for turning in an assignment up until the Tuesday of the following week.  However, **no assignment work is accepted after class Tuesday of the following week**, as we will go over answers for assignments in class.
+There is an assignment each week in class, **due Friday at midnight**.[^friday] Assignments will vary in nature: some will be one-off problem sets, some may build on problem sets from a prior week. All material needed for an assignment will be covered by the Tuesday before the assignment is due, and the assignment itself will be posted no later than Tuesday of the week in question. There is **no penalty** for turning in an assignment up until the Tuesday of the following week.  However, **no assignment work is accepted after class Tuesday of the following week**, as we will go over answers for assignments together in class. There will typically be no assignments on weeks when other significant work (practicums, tests) are due, and students may miss up to two assignments without penalty. Students may also work together on assignments, although each student is ultimately responsible for their own work.
 
 ::: {.callout-note}
 ### Assignment Evaluation
-Assignments are evaluated based upon effort and a check completion system. Students who answer every problem will earn a check, with each check worth one point toward their assignment grade.
+Assignments are evaluated based upon effort and a check completion system. Students who answer every problem will earn a check, with each check worth one point toward their final assignment grade.
 
 :::
 
-
-::: {.callout-tip}
-### Tips!
-There will be no assignments on the midterm week (or when praticums are due). 
-
-Students may miss up to two assignments without penalty. 
-:::
 
 
 ::: {.callout-warning}
@@ -155,11 +143,11 @@ Most homework assignments will be done on a computer using Stata. Do not simply 
 
 ## Practicums
 
-The practicums are, essentially, large assignments that are worth more. They are untimed, take-home, cumulative, and will be completed on your own time (and computer).
+The practicums are, essentially, large assignments that are worth more and graded on a scale.[^pracgrad] They are untimed, take-home, cumulative, and will be completed on your own time (and computer). Unlike the weekly assignments, you are also not allowed to work together on them. Their timing corresponds (roughly) with the midterm and final - you may wish to think of them as the "take-home" midterm and "take-home" final, if you prefer.  
 
 ## Midterm and Final
 
-Timed exams given in class on pen and paper.  No computer will be available to you, although you will have access to a calculator. Both exams are cumulative across the course.
+The midterm and final are traditional timed exams given in class on pen and paper.  No computer will be available to you, although you will have access to a calculator. Both exams are cumulative across the course.
 
 # Course Expectations & Guidelines
 
@@ -187,3 +175,4 @@ This course, and this syllabus, consists in large parts of material developed by
 
 [^friday]: Although, I should note, I very much hope you aren't working on my assignments on Friday at 11 PM! I suggest you work on assignments starting on Tuesday of the week in question and finish them early enough so your Friday afternoon and evening isn't overcome with them.
 [^rare]: In exceptionally rare cases, partial credit (a half point) may be given for partially completed assignments.
+[^pracgrad]: While regular weekly assignments are check/no-check credit, on practicums, you'll receive a certain number of points out of the total.

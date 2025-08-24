@@ -17,7 +17,7 @@ You can use any book you wish (although I encourage you to make sure its style s
 - **PNA** Meier, Kenneth, Jeffery Brudney, and John Bohte. [*Applied Statistics for Public and Nonprofit Administration*](https://www.amazon.com/Applied-Statistics-Public-Nonprofit-Administration/dp/1285737237). Cengage. *Any recent edition is fine*
 - **MtM** Favero, Nathan. [*Statistics Minus the Math: An Introduction for Social Sciences* (https://minusthemath.com)](https://minusthemath.com)
 
-While you may be most tempted to use **PNA** (and it does have a nice applied presentation), the content itself jumps around a bit, which occaisionally has you reading things ahead of time or beore time (or sometimes missing things in proper sequence) so you might find one of the other options more to your liking.
+While you may be most tempted to use **PNA** (and it does have a nice applied presentation), the content itself jumps around a bit relative to the sequencing of our class, which occaisionally has you reading things ahead of time or before time (or sometimes missing things in proper sequence) so you might find one of the other options more to your liking.
 
 :::
 
@@ -41,9 +41,7 @@ While you may be most tempted to use **PNA** (and it does have a nice applied pr
 
 ---
 
-We will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) a class session ahead. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second.
-
-## 📖 A Last Word on Reading
+## 📖 A Word on Reading
 
 Reading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).
 
@@ -53,4 +51,6 @@ Each book has its strengths:
 - **PNA** *Applied Statistics for Public and Nonprofit Administration*: focused on applied public administration, still detailed.  Sequenced differently.
 - **MtM** *Minus the Math*: conceptual, common-language, intuition-focused, but light on probability and detail.
 
-You may any as your primary reference. If you need more depth, consult **STA** or **PNA**. If you want lighter or more intuitive explanations, lean on **MtM**.
+You may use any as your primary reference. If you need more depth, consult **STA** or **PNA**. If you want lighter or more intuitive explanations, lean on **MtM**.
+
+We will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second.

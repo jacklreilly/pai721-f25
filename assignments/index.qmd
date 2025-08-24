@@ -6,4 +6,4 @@ format-links: false
 
 Hello and welcome to the assignments page for our course. All assignments are posted here.
 
-Note that, while you can find assignments here, submission of assignments are in the [course blackboard](blackboard.syr.edu).
+Note that, while you can find assignments here, submission of assignments are in the [course blackboard](https://blackboard.syr.edu).
