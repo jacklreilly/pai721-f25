@@ -253,18 +253,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#problem-12-dmv-processing-times" id="toc-problem-12-dmv-processing-times" class="nav-link" data-scroll-target="#problem-12-dmv-processing-times">Problem 1–2: DMV Processing Times</a></li>
-  <li><a href="#problem-3-comparing-sat-vs-act" id="toc-problem-3-comparing-sat-vs-act" class="nav-link" data-scroll-target="#problem-3-comparing-sat-vs-act">Problem 3: Comparing SAT vs ACT</a></li>
-  <li><a href="#problems-45-nsfg-20112013" id="toc-problems-45-nsfg-20112013" class="nav-link" data-scroll-target="#problems-45-nsfg-20112013">Problems 4–5: NSFG (2011–2013)</a></li>
-  <li><a href="#problems-612-madison-county-jail-data-stata" id="toc-problems-612-madison-county-jail-data-stata" class="nav-link" data-scroll-target="#problems-612-madison-county-jail-data-stata">Problems 6–12: Madison County Jail Data (Stata)</a></li>
-  </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="assign4.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
-    </div>
+        
+    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="assign4.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -300,114 +290,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="instructions" class="level1">
-<h1>Instructions</h1>
-<p>For this assignment, you must turn in two documents: 1) your answers (as a PDF) and 2) a plain-text <code>.do</code> file containing the Stata code you used to arrive at your answers.</p>
-<blockquote class="blockquote">
-<p>Note: For Questions 1–5, you may calculate by hand or using Stata. For Questions 6–12, you <strong>must</strong> use Stata.</p>
-</blockquote>
-<hr>
-</section>
-<section id="problem-12-dmv-processing-times" class="level1">
-<h1>Problem 1–2: DMV Processing Times</h1>
-<p>The Commissioner of the NYS Department of Motor V ehicles is analyzing the impact of a new software for processing new Drivers License applications. To do so, he divided DMV employees at the Syracuse branch into two groups:</p>
-<ul>
-<li><strong>GROUP A</strong> uses the current system<br>
-</li>
-<li><strong>GROUP B</strong> uses the new software</li>
-</ul>
-<p>Below is a table showing the time it takes (in minutes) to people in each group to process applications.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 7%">
-<col style="width: 92%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Group</th>
-<th>Times (minutes)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">A</td>
-<td>14, 18, 16, 22, 25, 12, 32, 16, 15, 18</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">B</td>
-<td>12, 10, 13, 14, 9, 17, 11, 10, 8, 11</td>
-</tr>
-</tbody>
-</table>
-<ol type="1">
-<li>Compute <strong>mean</strong>, <strong>median</strong>, <strong>first quartile (Q1)</strong>, <strong>third quartile (Q3)</strong>, and <strong>range</strong> for each group.<br>
-</li>
-<li>Based on these summaries, which software should the DMV use? Explain briefly.</li>
-</ol>
-<hr>
-</section>
-<section id="problem-3-comparing-sat-vs-act" class="level1">
-<h1>Problem 3: Comparing SAT vs ACT</h1>
-<p>There are two major tests of readiness for college, the ACT and the SAT. ACT scores are reported on a scale from 1 to 36. The distribution of ACT scores is approximately Normal with mean = 21.5 and standard deviation = 5.4. SAT scores are reported on a scale from 600 to 2400. The SAT scores are approxi- mately Normal with mean = 1509 and standard deviation = 321.</p>
-<ul>
-<li>Tonya scores <strong>1820</strong> on the SAT.<br>
-</li>
-<li>Jermaine scores <strong>29</strong> on the ACT.</li>
-</ul>
-<ol start="3" type="1">
-<li>If both tests measure the same thing, who has the higher score? Report both <strong>z-scores</strong>.</li>
-</ol>
-<hr>
-</section>
-<section id="problems-45-nsfg-20112013" class="level1">
-<h1>Problems 4–5: NSFG (2011–2013)</h1>
-<p>The following questions are based on information from the National Survey of Family Growth (NSFG) from 2011-2013. This is the nationally representative survey with information on fertility in the United States. From this dataset, you learn that the age of a woman at the time of her first birth is N(24,12).</p>
-<ol start="4" type="1">
-<li>What is the probability that a randomly drawn person is <strong>older than 30</strong> at first birth?<br>
-</li>
-<li>What percent of women are <strong>teenagers (≤ 19)</strong> when they have their first birth?</li>
-</ol>
-<hr>
-</section>
-<section id="problems-612-madison-county-jail-data-stata" class="level1">
-<h1>Problems 6–12: Madison County Jail Data (Stata)</h1>
-<p>For the following questions, use the dataset ”Madison county jail data.dta” located on blackboard. The unit of analysis is prisoner (each row in the dataset represents a different prisoner). The dataset currently has the following two variables:</p>
-<ul>
-<li><strong>Number of days</strong>: This variable captures the number of days that a person has spent in jail.</li>
-<li><strong>Education level</strong>: This variable captures the Highest education level achieved by the individual imprisoned. The numbers in the value represent categories in the following way:
-<ul>
-<li>1 = Elementary School<br>
-</li>
-<li>2 = Middle School<br>
-</li>
-<li>3 = High School<br>
-</li>
-<li>4 = College</li>
-</ul></li>
-</ul>
-<blockquote class="blockquote">
-<p>The director of the Madison County jail is planning to testify before the Wisconsin state legislature with the goal of obtaining more state funds for the county jail system. In preparing her remarks, the director plans to present data on the average number of days that prisoners remain in jail as well as data on the educational background on the individuals. The director asks you, as chief operations officer for the jail, to calculate descriptive statistics for a random sample of 250 prisoners processed in the last 9 months.</p>
-</blockquote>
-<ol start="6" type="1">
-<li>Obtain <strong>one appropriate measure of central tendency</strong> for <code>Number of days</code> and for <code>Education level</code>. Explain the choice and interpret it.<br>
-</li>
-<li>Create a <strong>plot</strong> for <code>Number of days</code> appropriate to its type. State whether the distribution is <strong>symmetric, left-skewed, or right-skewed</strong> and how you know.<br>
-</li>
-<li>Create a <strong>plot</strong> for <code>Education level</code> appropriate to a categorical variable.<br>
-</li>
-<li>Using a <strong>linear transformation</strong>, create <code>cost = 86 + 35 * (Number of days)</code>. Obtain a <strong>summary</strong> of <code>cost</code>.<br>
-</li>
-<li><strong>Regress</strong> <code>cost</code> (y) on <code>Number of days</code> (x). Does the regression recover the linear transformation from (9)? Explain the intercept and slope.<br>
-</li>
-<li><strong>Regress</strong> <code>Number of days</code> (y) on <code>Education level</code> (x). Report and interpret the <strong>intercept</strong> and <strong>slope</strong>.<br>
-</li>
-<li>Using results from (11), predict expected days for education levels <strong>1–4</strong> (Elementary, Middle, High School, College).<br>
-</li>
-<li>Briefly discuss <strong>reservations/limitations</strong> with the regression in (11) and predictions in (12) (e.g., treating education as numeric, omitted variables, linearity).</li>
-</ol>
+<p>Nothing to see here (yet)</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
