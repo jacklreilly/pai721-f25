@@ -1,0 +1,56 @@
+---
+title: "📅 Schedule"
+format: 
+    html: default
+    pdf: default
+    docx: default
+---
+
+## 📊 Course Topics
+
+::: callout-tip
+### A Note on Books
+
+You can use any book you wish (although I encourage you to make sure its style suits you):
+
+- **STA** Moore, David S., George P. McCabe, Bruce A. Craig. [*Introduction to the Practice of Statistics*](https://www.amazon.com/Introduction-Practice-Statistics-David-Moore/dp/1319013384/). W.H. Freeman and Company. *Any edition 6th or newer is sufficient.*
+- **PNA** Meier, Kenneth, Jeffery Brudney, and John Bohte. [*Applied Statistics for Public and Nonprofit Administration*](https://www.amazon.com/Applied-Statistics-Public-Nonprofit-Administration/dp/1285737237). Cengage. *Any recent edition is fine*
+- **MtM** Favero, Nathan. [*Statistics Minus the Math: An Introduction for Social Sciences* (https://minusthemath.com)](https://minusthemath.com)
+
+While you may be most tempted to use **PNA** (and it does have a nice applied presentation), the content itself jumps around a bit, which occaisionally has you reading things ahead of time or beore time (or sometimes missing things in proper sequence) so you might find one of the other options more to your liking.
+
+:::
+
+
+
+| Unit | Topic                        | **STA**                | **PNA** | **MtM**  |
+|------|------------------------------|--------------|--------------|--------------|
+| I    | Descriptive statistics       | 1.2; 1.3; 1.4          |1, 4, 5, 6| 1, 2    |
+| II   | Statistical relationships    | 2.1–2.7                |14, 15 | 3       |
+| III  | Producing data               | 3.1–3.4                |2, 3| 4       |
+| IV   | Probability                  | 4.1–4.5                |7, 8| 5       |
+|      | **Midterm Exam (Thu Oct 17)**|                        ||         |
+| V    | Sampling distributions       | 5.1–5.3                |7,8| 6       |
+| VI   | Inference                    | 6.1–6.4                |10| 7       |
+| VII  | Inference for distributions  | 7.1–7.2                |11| 8, 9    |
+| VIII | Simple linear regression     | 10.1                   |17| 10      |
+| IX*  | Less simple regression       | 11.1–11.2              |20| 11, 12  |
+|      | **Final Exam** |        |         |
+
+*️ If time allows.
+
+---
+
+We will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) a class session ahead. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second.
+
+## 📖 A Last Word on Reading
+
+Reading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).
+
+Each book has its strengths:
+
+- **STA** *Introduction to the Practice of Statistics*: traditional, math-heavy, detailed.
+- **PNA** *Applied Statistics for Public and Nonprofit Administration*: focused on applied public administration, still detailed.  Sequenced differently.
+- **MtM** *Minus the Math*: conceptual, common-language, intuition-focused, but light on probability and detail.
+
+You may any as your primary reference. If you need more depth, consult **STA** or **PNA**. If you want lighter or more intuitive explanations, lean on **MtM**.

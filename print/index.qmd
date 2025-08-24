@@ -1,0 +1,6 @@
+---
+title: "Course Packet"
+format: pdf
+---
+
+This document combines Syllabus, Schedule, and Policies.

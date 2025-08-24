@@ -1,0 +1,37 @@
+---
+title: "Assignment 2"
+---
+
+# Instructions
+
+Answer all questions. Please upload your assignment to **Blackboard** as a PDF.
+
+---
+
+For questions 1–5, please consider the following dataset. 
+
+## Dataset
+
+| Name     | Salary      | Years Experience | Job Description | Education Level   |
+|----------|-------------|------------------|-----------------|------------------|
+| Jane     | $45,000     | 1                | Teacher         | College Degree   |
+| Sam      | $68,000     | 3                | Analyst         | College Degree   |
+| Edwin    | $92,000     | 5                | Police          | High School      |
+| Shareefa | $140,000    | 20               | Manager         | Graduate Degree  |
+| Dwight   | $72,000     | 12               | Nurse           | College Degree   |
+| Jiang    | $68,000     | 9                | Teacher         | College Degree   |
+| LeBron   | $48,000,000 | 21               | Athlete         | High School      |
+
+
+# Questions
+
+1. What is the unit of analysis (the cases) in this table?  
+
+2. Identify the level of measurement of each variable.  
+
+3. What is the mean, median, and mode of the salary data in this table?  
+   - You may use Stata or a hand calculator to answer this problem, but you must show your work or code in your answer.  
+
+4. Do you think the mean, median, or mode is the best estimate of central tendency for salary? Why?  
+
+5. What measures of central tendency are possible to use for each variable in this dataset? Why?  

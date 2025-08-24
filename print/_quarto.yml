@@ -1,0 +1,17 @@
+project:
+  type: book
+  output-dir: ../_site/print   # or just "print" if you prefer
+
+book:
+  title: "Course Packet"
+  chapters:
+    - index.qmd                # cover/intro page (required)
+    - ../syllabus.qmd
+    - ../schedule.qmd
+    - ../policies.qmd
+
+format:
+  pdf:
+    toc: true
+  docx:
+    toc: true

@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "**PAI 721**"
+  site-url: https://jacklreilly.github.io/pai721-f25/
+  repo-url: https://github.com/jacklreilly/pai721-f25
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: syllabus.qmd
+        text: 📚 Syllabus
+      - href: schedule.qmd
+        text: 📅 Schedule
+      - href: assignments/index.qmd
+        text: 📝 Assignments
+      - href: policies.qmd
+        text: 🏫 Policies
+      - href: ai.qmd
+        text: 🤖 AI & LLMs
+  page-footer:
+    left: |
+      Built with [Quarto](https://quarto.org)
+    center: |
+      © 2025 Jack Reilly
+    right: |
+      [Contact](mailto:jlreilly@syr.edu)
+
+  sidebar:
+    - id: assign
+      style: docked
+      search: true
+      contents:
+        - section: "Assignments"
+          href: assignments/index.qmd
+          contents:
+          - assignments/assign1.qmd
+          - assignments/assign2.qmd
+          - assignments/assign3.qmd
+          - assignments/assign4.qmd
+          - assignments/assign5.qmd
+          - assignments/assign6.qmd
+          - assignments/assign7.qmd
+          - assignments/assign8.qmd
+          - assignments/assign9.qmd
+          - assignments/assign10.qmd
+          - assignments/assign11.qmd
+          - assignments/assign12.qmd
+        - section: "Practica"
+          href: assignments/index.qmd
+          contents:
+          - assignments/prac1.qmd
+          - assignments/prac2.qmd
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
+

@@ -1,0 +1,8 @@
+---
+title: "Assignment 6"
+format: 
+    html: default
+    pdf: default
+---
+
+Nothing to see here (yet)
