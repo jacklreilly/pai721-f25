@@ -6,7 +6,6 @@ website:
   title: "**PAI 721**"
   site-url: https://jacklreilly.github.io/pai721-f25/
   repo-url: https://github.com/jacklreilly/pai721-f25
-  repo-actions: [edit, issue]
   navbar:
     left:
       - href: syllabus.qmd
@@ -59,7 +58,8 @@ format:
       - brand
     css: styles.css
     toc: true
-
+execute:
+  freeze: auto
 
 
 
