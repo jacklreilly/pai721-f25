@@ -3,7 +3,7 @@ project:
   output-dir: ../_site/download   # or just "print" if you prefer
 
 book:
-  title: "Course Packet"
+  title: "PAI721_CoursePack_F25"
   chapters:
     - index.qmd                # cover/intro page (required)
     - ../syllabus.qmd
