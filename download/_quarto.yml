@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: ../_site/download   # or just "print" if you prefer
+  output-dir: ../_site/   # or just "print" if you prefer
 
 book:
   title: "PAI 721 - Course Packet"

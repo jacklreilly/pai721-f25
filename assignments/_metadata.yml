@@ -5,4 +5,5 @@ date-format: "F2025"
 format: 
   html: default
   pdf: default
+  docx: default
 sidebar: assign
