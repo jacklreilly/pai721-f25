@@ -3,7 +3,9 @@
 {{< include policies.qmd >}}
 
 ---
-title: "Introduction to Statistics"
+title: "PAI 721: Introduction to Statistics"
+author: "Prof. Jack Reilly"
+date: F2025
 subtitle: "Course Syllabus"
 format: 
     html: default
