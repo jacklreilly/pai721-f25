@@ -14,7 +14,7 @@ format:
 
 <i class="bi bi-clock"></i> Office Hours: Tuesday and Thursday, 11 AM - 12 Noon (drop in) <br>
 
-<i class="bi bi-laptop"></i> Zoom Hours: Friday, 1 PM - 4 PM [schedule a meeting](https://jacklreilly.github.io/appointments.html)<br>
+<i class="bi bi-laptop"></i> Zoom Hours: Friday, 1 PM - 3 PM [schedule a meeting](https://jacklreilly.github.io/appointments.html)<br>
 
 <div style="margin-top:0.5rem;">
   <a class="btn btn-primary btn-sm" href="mailto:jlreilly@syr.edu">
