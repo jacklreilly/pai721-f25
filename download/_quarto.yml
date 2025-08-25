@@ -5,9 +5,7 @@ project:
 book:
   title: "PAI 721 - Course Packet"
   subtitle: "Fall 2025"
-  author: 
-    - name: "Jack Reilly"
-    - affiliation: "Maxwell School, Syracuse University"
+  author: "Jack Reilly"
   date: today
   chapters:
     - index.qmd                # cover/intro page (required)
