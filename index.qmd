@@ -17,4 +17,4 @@ Hello and welcome to the course website for PAI 721, "Introduction to Statistics
 
 Please take a minute to browse this website, where you'll find the course [syllabus](syllabus.qmd), topic [schedule](schedule.qmd), course [assignments](assignments/index.qmd), class and university academic [policies](policies.qmd), and [more](ai.qmd).
 
-Finally, if you'd like this website and syllabus in an alternate format, please note you can download .pdfs or .docxs of any page on the site simply by clicking the link on the page.  You can also download a full copy of the main syllabus contents of the site (syllabus, schedule, and policies) as a course pack [here (pdf)](download/PAI721.pdf) and [here (docx)](download/PAI721.docx).
+Finally, if you'd like this website and syllabus in an alternate format, please note you can download .pdfs or .docxs of any page on the site simply by clicking the link on the page.  You can also download a full copy of the main syllabus contents of the site (syllabus, schedule, and policies) as a course pack [here (pdf)](PAI721.pdf) and [here (docx)](PAI721.docx).
