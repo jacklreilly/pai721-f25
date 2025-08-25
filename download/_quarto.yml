@@ -8,6 +8,7 @@ book:
   author: 
     - name: "Jack Reilly"
     - affiliation: "Maxwell School, Syracuse University"
+  date: today
   chapters:
     - index.qmd                # cover/intro page (required)
     - ../syllabus.qmd
@@ -19,7 +20,7 @@ format:
     toc: true
     documentclass: article
     top-level-division: section
-    output-file: 721coursepack
+    output-file: pai721f25
   docx:
     toc: true
-    output-file: 721coursepack
+    output-file: pai721f25
