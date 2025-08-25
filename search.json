@@ -42,6 +42,316 @@
     "text": "Footnotes\n\n\nSo many thoughts, in fact, that I teach a whole class on AI Policy! Come take it with me in the spring if you’re interested.↩︎\nI for instance, used AI tools to help me build this website, and I would guess that I was able to do it at least twice as quickly as I would have been able to without AI.↩︎\nGenerally speaking, at least. If you’re paying attention to some of the details with AI, you know about something called an LRM - or Large Reasoning Model. To a first approximation, they try to introduce better and more complex reasoning into the base prediction process, sometimes going so far to do things like generate python code to do math analysis. These “reasoning” models, however, still often fall short on relatively simple reasoning tasks (see The Illusion of Thinking (2025), published by researchers at Apple).↩︎\nFrankfurt, (2005) On Bullshit; Hicks, Humphries, and Slater, (2024) ChatGPT is Bullshit. For those interested in a full taxonomy, Frankfurt helpfully helps us distinguish between bullshit and any number of additional different not-quite-truthisms, including humbug, hot air, bluff, bravado, and lying.↩︎\nFor another excellent example of profanity being elegantly used to make clear points in academic settings, see Healy, 2107. “Fuck Nuance”, which genuinely contains very good advice on writing. (Although to be fair, you can also get most of the point of that article just from the title . . . which is also the point.)↩︎\nInsert proper “value of doing the tough work” metaphor here: eating your vegetables, walking uphill both ways to school in a snowstorm, learning to program in assembly before C, etc.↩︎\nYou never really know what you’re over the hill, but you feel it coming sooner every day.↩︎\nMany publications, for instance, have explict and clear instructions that prevent you from cheekily listing ChatGPT or Claude as a coauthor, in fact - even if they allow for the use of ChatGPT in the production of the manuscript. See, for instance, this discussion in regards to journals published by Springer-Nature.↩︎\nA good parallel here is Microsoft Office: if you write some nonsensible hot garbage in Word, Microsoft is never going to take responsiblity for any of that business. They’ll (correctly) note that it was just some dumb human that wrote it using their tool.↩︎\nAgain, an academic reference!↩︎\nAnother way to think about it: ChatGPT never writes a paragraph for me, but it does occasionally help me find the right word I’m looking for (like a dictionary) or identify the right R library to use.↩︎\nFor the record, my money would be somewhere much more than “fumbling stumble” but not quite “giant leap” - perhaps “large but uncertain step”? Either way, however, I don’t think much is gained from preventing students from using AI. It’s just the next tool in the chain, and it’s not like you see people walking around all day using a slide rule or abacus. Technology marches on in fits and starts regardless.↩︎\nAn all too common mistake made today by students, educators, and administrators alike, for the record.↩︎\nAn arduous, unending, and unenviable task, like Sisyphus with his rock.↩︎\nAI slop: also known as, well, you know.↩︎\nThe technical tools that try to detect LLM writing are imperfect, anyways, resulting in a lot of uncertainty and false positives. Furthermore, experience has taught me that typically, poor used and generated LLM content will often earn poor marks, regardless, and have some pretty clear “tells”. This means I don’t have to care too much if you produce bad work with AI or bad work without AI: it’s just bad work. And your learning, in the final anlaysis, really is up to you. If you want to cut corners and use AI irresponsibly, there’s nothing I can do to stop you. (It’s really just future you that you’re hurting, anyways.) If you want to use LLMs responsibly successfully, well: great! That’s probably the way of the future, anyways, and I hope that this document, along with other elements of my and others classes, help you learn how to do so successfully.↩︎"
   },
   {
+    "objectID": "assignments/prac2.html",
+    "href": "assignments/prac2.html",
+    "title": "Practicum 2",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Practica",
+      "Practicum 2"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "📝 Assignments",
+    "section": "",
+    "text": "Hello and welcome to the assignments page for our course. All assignments are posted here.\nNote that, while you can find assignments here, submission of assignments are in the course blackboard.",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/assign8.html",
+    "href": "assignments/assign8.html",
+    "title": "Assignment 8",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 8"
+    ]
+  },
+  {
+    "objectID": "assignments/assign6.html",
+    "href": "assignments/assign6.html",
+    "title": "Assignment 6",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 6"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Instructions\nAnswer all questions. Please upload your assignment to Blackboard as a PDF.\n\n\n\nQuestions\n\nWhat is your name and program of study at Syracuse?\n(Optional: provide your pronouns, if you wish.)\nWhat is your prior experience with statistics and data analysis?\nWhat are you hoping to get out of this class?\nPlease include a picture of yourself!\n\nIt can be anything – just make sure that you are the only person in the picture so I can clearly identify you.",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign12.html",
+    "href": "assignments/assign12.html",
+    "title": "Assignment 12",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 12"
+    ]
+  },
+  {
+    "objectID": "assignments/assign3.html",
+    "href": "assignments/assign3.html",
+    "title": "Assignment 3",
+    "section": "",
+    "text": "Instructions\nFor this assignment, you must turn in two documents:\n1. Your answers (as a PDF), and\n2. A plain-text .do file containing the Stata code you used to arrive at your answers.\nPlease consider the data in the following table. You may also find this data as a .dta file on the course Blackboard page.\n\n\nDataset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlayer\nG\nMP\nFG\nFGA\n3P\n3PA\nTRB\nAST\nSTL\nBLK\nTOV\nPF\nPTS\n\n\n\n\nCarmelo Anthony\n35\n1274\n277\n612\n56\n166\n349\n77\n55\n30\n77\n77\n778\n\n\nHakim Warrick\n35\n1146\n197\n364\n0\n1\n297\n57\n49\n44\n92\n94\n518\n\n\nGerry McNamara\n35\n1236\n146\n364\n85\n238\n80\n155\n77\n2\n85\n69\n467\n\n\nKueth Duany\n35\n944\n133\n303\n43\n123\n128\n71\n36\n17\n57\n75\n386\n\n\nBilly Edelin\n23\n533\n80\n146\n0\n2\n78\n58\n24\n2\n53\n22\n208\n\n\nJosh Pace\n32\n469\n62\n118\n0\n2\n86\n60\n26\n8\n37\n33\n138\n\n\nCraig Forth\n35\n618\n56\n115\n0\n1\n116\n30\n15\n41\n39\n90\n132\n\n\nJeremy McNeil\n35\n657\n54\n81\n0\n0\n146\n8\n9\n100\n36\n112\n117\n\n\nMatt Gorman\n9\n76\n8\n23\n0\n1\n19\n1\n3\n2\n5\n14\n21\n\n\nAndrew Kouwe\n6\n10\n3\n5\n2\n2\n2\n2\n0\n0\n1\n2\n10\n\n\nRonneil Herron\n5\n9\n2\n3\n0\n0\n5\n0\n0\n0\n1\n0\n6\n\n\nXzavier Gaines\n6\n21\n1\n8\n0\n3\n2\n1\n1\n0\n2\n0\n2\n\n\nGary Hall\n5\n6\n1\n1\n0\n0\n2\n2\n1\n1\n0\n0\n2\n\n\nTyrone Albright\n7\n20\n0\n2\n0\n1\n2\n1\n2\n0\n3\n1\n0\n\n\nJosh Brooks\n5\n6\n0\n1\n0\n0\n1\n0\n0\n0\n0\n1\n0\n\n\n\nVariable definitions:\n\nG = Games Played\n\nMP = Minutes Played\n\nFG = Field Goals Made\n\nFGA = Field Goals Attempted\n\n3P = Three Point Field Goals Made\n\n3PA = Three Point Field Goals Attempted\n\nTRB = Total Rebounds\n\nAST = Assists\n\nSTL = Steals\n\nBLK = Blocks\n\nTOV = Turnovers\n\nPF = Personal Fouls\n\nPTS = Points Scored\n\n\n\n\nQuestions\n\nWhat is the unit of analysis (the cases) in this table?\nIdentify the level of measurement of each variable.\nWhat is the mean, median, and mode of the “games played” variable in this data?\nDo you think the mean, median, or mode is the best estimate of central tendency for games played? Why?\nMany analysts like to create a statistic called “Stocks,” which is the sum of steals and blocks by a player. Create this variable as STK. Who had the most stocks on the team?\nCalculate each player’s field goal percentage and three point field goal percentage, storing each in new variables FGP and TPP. Who led the team in field goal percentage and three point percentage?\nTransform the variable PTS, generating a new variable PPG (average points scored per game played). How many points per game did Carmelo Anthony, Gerry McNamara, Josh Pace, and Jeremy McNeil average? Who led the team in points per game?\nDo the same for 3P, TRB, AST, STL, BLK, and TOV. Who led the Orange in each statistical category per game?\nTransform PTS again to generate PPM (points per minute played). Who led the Orange in points per minute?\nCreate a scatterplot with points per minute (PPM) on the Y axis and minutes played (MP) on the X axis. Add a best-fit line. What is the relationship between points per minute and minutes played?",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 3"
+    ]
+  },
+  {
+    "objectID": "assignments/assign10.html",
+    "href": "assignments/assign10.html",
+    "title": "Assignment 10",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 10"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "",
+    "text": "The following document reflects the approved campus-wide academic policies of Syracuse University. For more information and detail, please consult the full documentation of University policies here."
+  },
+  {
+    "objectID": "policies.html#academic-drop-deadline",
+    "href": "policies.html#academic-drop-deadline",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "⚠️ Academic Drop Deadline",
+    "text": "⚠️ Academic Drop Deadline\nAs part of our efforts to track satisfactory academic progress, the Academic Drop Deadline and the Financial Drop deadline will both occur on September 15, 2025, for the fall semester and February 2, 2026, for the spring semester. Students may still withdraw from courses after these deadlines; this would place a ‘WD’ grade on their transcripts. Students enrolled in “flex” classes (Flexibly formatted classes) have different deadlines and will need to check MySlice for the Academic and Financial Drop deadlines that pertains to their class."
+  },
+  {
+    "objectID": "policies.html#academic-integrity",
+    "href": "policies.html#academic-integrity",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "📖 Academic Integrity",
+    "text": "📖 Academic Integrity\nAs a pre-eminent and inclusive student-focused research institution, Syracuse University considers academic integrity at the forefront of learning, serving as a core value and guiding pillar of education. Syracuse University’s Academic Integrity Policy provides students with the necessary guidelines to complete academic work with integrity throughout their studies. Students are required to uphold both course-specific and university-wide academic integrity expectations such as crediting your sources, doing your own work, communicating honestly, and supporting academic integrity. The full Syracuse University Academic Integrity Policy can be viewed by visiting the Syracuse University Policies website.\nUpholding Academic Integrity includes the protection of faculty’s intellectual property. Students should not upload, distribute, or share instructors’ course materials, including presentations, assignments, exams, or other evaluative materials without permission. Using websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others, which are then presented as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation. All academic integrity expectations that apply to in-person assignments, quizzes, and exams also apply online.\nStudents found in violation of the policy are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the School or College where the course is offered. Students may not drop or withdraw from courses in which they face a suspected violation. Any established violation in this course may result in course failure regardless of violation level."
+  },
+  {
+    "objectID": "policies.html#artificial-intelligence",
+    "href": "policies.html#artificial-intelligence",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "🤖 Artificial Intelligence",
+    "text": "🤖 Artificial Intelligence\nBased on the assignments in this course and our specified learning outcomes, the full use of artificial intelligence as a tool, with disclosure and citation, is permitted in this course. Students do not need to ask permission to use these tools before starting an assignment or exam, but they must explicitly and fully indicate which tools were used and describe how they were used.\nPlease also see Syracuse University’s general campus AI policies here."
+  },
+  {
+    "objectID": "policies.html#academic-integrity-online",
+    "href": "policies.html#academic-integrity-online",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "💻 Academic Integrity Online",
+    "text": "💻 Academic Integrity Online\nAll academic integrity expectations that apply to in-person quizzes and exams also apply to online quizzes and exams. In this course, all work submitted for quizzes and exams must be yours alone. Discussing quiz or exam questions with anyone during the quiz or exam period violates academic integrity expectations for this course.\nUsing websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others and present the work as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation, resulting in suspension or expulsion from Syracuse University."
+  },
+  {
+    "objectID": "policies.html#attendance-policy",
+    "href": "policies.html#attendance-policy",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "👤 Attendance Policy",
+    "text": "👤 Attendance Policy\nAttendance in classes is expected in all courses at Syracuse University. It is a federal requirement that faculty promptly notify the university of students who do not attend or cease to attend any class. Faculty will use Early-Semester Progress Reports and Mid-Semester Progress Reports in Orange SUccess to alert the Registrar and Financial Aid Office on non-attendance. For more information visit:\nFaculty: Information for Faculty: Non-attendance or Stopped Attending Students: Information for Students: Non-attendance or Stopped Attending\nIf a student is unable to participate in-person or virtually for an extended period of time (48 hours or more), the student may request an absence notification from their home school/college Dean’s Office or through Student Outreach and Support office. Instructors will be notified via the “Absence Notification” flag in Orange SUccess.\nBarnes Center at the Arch (Health, Counseling, etc.) staff will not provide medical excuse notes for students. When Barnes Center staff determine it is medically necessary to remove a student from classes, they will coordinate with Student Outreach and Support case management staff to provide appropriate notification to faculty through Orange Success. For absences lasting less than 48 hours, students are encouraged to discuss academic arrangements directly with their faculty.\nAdditional information may be found at Student Outreach and Support: Absence Notifications."
+  },
+  {
+    "objectID": "policies.html#blackboard",
+    "href": "policies.html#blackboard",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "🖼 Blackboard",
+    "text": "🖼 Blackboard\nThis class will use the Blackboard Learning Management to house the syllabus, course content, links to external course materials, assignments, quizzes, exams, feedback, and grades. Due dates and times in Blackboard are stored in Coordinated Universal Time (UTC) and displayed for each user based on the time zone setting of their computer and data from their internet browser. The system will always display the time zone being used. If an instructor sets a due date of 11pm Eastern time, a student in the Pacific time zone will see a due date of 8pm.”\nInformation about Blackboard is available on Answers Blackboard; alternatively, you can contact Information Technology Services by sending an email to help@syr.edu, calling 315.443.2677, or in-person at the ITS Service Center, located at 1-227 CST in the Life Sciences Complex. Business hours for the Service Center can be found on the ITS website."
+  },
+  {
+    "objectID": "policies.html#discrimination-and-harassment",
+    "href": "policies.html#discrimination-and-harassment",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "🚫 Discrimination and Harassment",
+    "text": "🚫 Discrimination and Harassment\nThe University does not discriminate and prohibits harassment or discrimination related to any protected category including creed, ethnicity, citizenship, sexual orientation, national origin, sex, gender, pregnancy, reproductive health decisions, disability, marital status, political or social affiliation, age, race, color, veteran status, military status, religion, sexual orientation, domestic violence status, genetic information, gender identity, gender expression or perceived gender.\nAny complaint of discrimination or harassment related to any of these protected bases should be reported to Sheila Johnson-Willis, the University’s Chief Equal Opportunity & Title IX Officer for Faculty and Staff. She is responsible for coordinating compliance efforts under the various laws including Titles VI, VII, IX and Section 504 of the Rehabilitation Act. She can be contacted at Equal Opportunity, Inclusion, and Resolution Services, 621 Skytop Road, Suite 1001, Syracuse University, Syracuse, NY 13244-1120; or by email: equalopp@syr.edu; or by telephone: 315-443-4018."
+  },
+  {
+    "objectID": "policies.html#diversity",
+    "href": "policies.html#diversity",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "🌍 Diversity",
+    "text": "🌍 Diversity\nIt is the intent of this course for students from all diverse backgrounds and perspectives to be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. It is also critical to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let your instructor know ways to improve the effectiveness of the course for you personally or for other students or student groups."
+  },
+  {
+    "objectID": "policies.html#inclusion",
+    "href": "policies.html#inclusion",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "🤝 Inclusion",
+    "text": "🤝 Inclusion\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process.\nIf you would like to discuss disability accommodations or register with CDR, please visit the Center for Disability Resources. Call (315) 443-4498 or email disabilityresources@syr.edu for more information.\nThe CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Since academic accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible."
+  },
+  {
+    "objectID": "policies.html#faith-and-religious-accommodations",
+    "href": "policies.html#faith-and-religious-accommodations",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "🌐 Faith and Religious Accommodations",
+    "text": "🌐 Faith and Religious Accommodations\nSyracuse University’s Religious Observances Policy recognizes the diversity of faiths represented in the campus community and protects the rights of students, faculty, and staff to observe religious holy days according to their traditions. Under the policy, students are given an opportunity to make up any examination, study, or work requirements that may be missed due to a religious observance, provided they notify their instructors no later than the academic drop deadline. For observances occurring before the drop deadline, notification is required at least two academic days in advance. Students may enter their observances in MySlice under Student Services/Enrollment/My Religious Observances/Add a Notification."
+  },
+  {
+    "objectID": "policies.html#health-and-wellness",
+    "href": "policies.html#health-and-wellness",
+    "title": "🏫 Campus Academic Resources & Policies",
+    "section": "🩺 Health and Wellness",
+    "text": "🩺 Health and Wellness\nWell-being and mental health are significant predictors of academic success. It is critical to take care of yourself physically and emotionally and to effectively navigate stress, anxiety, and depression. Please familiarize yourself with the range of resources the Barnes Center provides https://ese.syr.edu/bewell/ and seek out support for mental health concerns as needed. Counseling services are available 24/7, 365 days, at 315-443-8000."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "📅 Schedule",
+    "section": "",
+    "text": "A Note on Books\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\nWhile you may be most tempted to use PNA (and it does have a nice applied presentation), the content itself jumps around a bit relative to the sequencing of our class, which occaisionally has you reading things ahead of time or before time (or sometimes missing things in proper sequence) so you might find one of the other options more to your liking.\n\n\n\n\n\n\n\n\n\n\n\n\nUnit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 17)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam\n\n\n\n\n\n\n*️ If time allows."
+  },
+  {
+    "objectID": "schedule.html#course-topics",
+    "href": "schedule.html#course-topics",
+    "title": "📅 Schedule",
+    "section": "",
+    "text": "A Note on Books\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\nWhile you may be most tempted to use PNA (and it does have a nice applied presentation), the content itself jumps around a bit relative to the sequencing of our class, which occaisionally has you reading things ahead of time or before time (or sometimes missing things in proper sequence) so you might find one of the other options more to your liking.\n\n\n\n\n\n\n\n\n\n\n\n\nUnit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 17)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam\n\n\n\n\n\n\n*️ If time allows."
+  },
+  {
+    "objectID": "schedule.html#a-word-on-reading",
+    "href": "schedule.html#a-word-on-reading",
+    "title": "📅 Schedule",
+    "section": "📖 A Word on Reading",
+    "text": "📖 A Word on Reading\nReading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).\nEach book has its strengths:\n\nSTA Introduction to the Practice of Statistics: traditional, math-heavy, detailed.\nPNA Applied Statistics for Public and Nonprofit Administration: focused on applied public administration, still detailed. Sequenced differently.\nMtM Minus the Math: conceptual, common-language, intuition-focused, but light on probability and detail.\n\nYou may use any as your primary reference. If you need more depth, consult STA or PNA. If you want lighter or more intuitive explanations, lean on MtM.\nWe will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second."
+  },
+  {
+    "objectID": "assignments/assign5.html",
+    "href": "assignments/assign5.html",
+    "title": "Assignment 5",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 5"
+    ]
+  },
+  {
+    "objectID": "assignments/assign2.html",
+    "href": "assignments/assign2.html",
+    "title": "Assignment 2",
+    "section": "",
+    "text": "Answer all questions. Please upload your assignment to Blackboard as a PDF.\n\nFor questions 1–5, please consider the following dataset.\n\n\n\n\n\n\n\n\n\n\n\n\nName\nSalary\nYears Experience\nJob Description\nEducation Level\n\n\n\n\nJane\n$45,000\n1\nTeacher\nCollege Degree\n\n\nSam\n$68,000\n3\nAnalyst\nCollege Degree\n\n\nEdwin\n$92,000\n5\nPolice\nHigh School\n\n\nShareefa\n$140,000\n20\nManager\nGraduate Degree\n\n\nDwight\n$72,000\n12\nNurse\nCollege Degree\n\n\nJiang\n$68,000\n9\nTeacher\nCollege Degree\n\n\nLeBron\n$48,000,000\n21\nAthlete\nHigh School",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 2"
+    ]
+  },
+  {
+    "objectID": "assignments/assign2.html#dataset",
+    "href": "assignments/assign2.html#dataset",
+    "title": "Assignment 2",
+    "section": "",
+    "text": "Name\nSalary\nYears Experience\nJob Description\nEducation Level\n\n\n\n\nJane\n$45,000\n1\nTeacher\nCollege Degree\n\n\nSam\n$68,000\n3\nAnalyst\nCollege Degree\n\n\nEdwin\n$92,000\n5\nPolice\nHigh School\n\n\nShareefa\n$140,000\n20\nManager\nGraduate Degree\n\n\nDwight\n$72,000\n12\nNurse\nCollege Degree\n\n\nJiang\n$68,000\n9\nTeacher\nCollege Degree\n\n\nLeBron\n$48,000,000\n21\nAthlete\nHigh School",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 2"
+    ]
+  },
+  {
+    "objectID": "assignments/assign4.html",
+    "href": "assignments/assign4.html",
+    "title": "Assignment 4",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 4"
+    ]
+  },
+  {
+    "objectID": "assignments/assign7.html",
+    "href": "assignments/assign7.html",
+    "title": "Assignment 7",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 7"
+    ]
+  },
+  {
+    "objectID": "assignments/assign13.html",
+    "href": "assignments/assign13.html",
+    "title": "Assignment 13",
+    "section": "",
+    "text": "Nothing to see here (yet)"
+  },
+  {
+    "objectID": "assignments/assign9.html",
+    "href": "assignments/assign9.html",
+    "title": "Assignment 9",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 9"
+    ]
+  },
+  {
+    "objectID": "assignments/assign11.html",
+    "href": "assignments/assign11.html",
+    "title": "Assignment 11",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Assignments",
+      "Assignment 11"
+    ]
+  },
+  {
+    "objectID": "assignments/prac1.html",
+    "href": "assignments/prac1.html",
+    "title": "Practicum 1",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Syllabus",
+      "Practica",
+      "Practicum 1"
+    ]
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus: Introduction to Statistics",
@@ -152,316 +462,6 @@
     "title": "Syllabus: Introduction to Statistics",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nAlthough, I should note, I very much hope you aren’t working on my assignments on Friday at 11 PM! I suggest you work on assignments starting on Tuesday of the week in question and finish them early enough so your Friday afternoon and evening isn’t overcome with them.↩︎\nWhile regular weekly assignments are check/no-check credit, on practicums, you’ll receive a certain number of points out of the total.↩︎\nAgain: usually I’m much faster! But if you don’t hear from me by this baseline, feel free to bump a reminder.↩︎"
-  },
-  {
-    "objectID": "assignments/prac1.html",
-    "href": "assignments/prac1.html",
-    "title": "Practicum 1",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Practica",
-      "Practicum 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign11.html",
-    "href": "assignments/assign11.html",
-    "title": "Assignment 11",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 11"
-    ]
-  },
-  {
-    "objectID": "assignments/assign9.html",
-    "href": "assignments/assign9.html",
-    "title": "Assignment 9",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 9"
-    ]
-  },
-  {
-    "objectID": "assignments/assign13.html",
-    "href": "assignments/assign13.html",
-    "title": "Assignment 13",
-    "section": "",
-    "text": "Nothing to see here (yet)"
-  },
-  {
-    "objectID": "assignments/assign7.html",
-    "href": "assignments/assign7.html",
-    "title": "Assignment 7",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 7"
-    ]
-  },
-  {
-    "objectID": "assignments/assign4.html",
-    "href": "assignments/assign4.html",
-    "title": "Assignment 4",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 4"
-    ]
-  },
-  {
-    "objectID": "assignments/assign2.html",
-    "href": "assignments/assign2.html",
-    "title": "Assignment 2",
-    "section": "",
-    "text": "Answer all questions. Please upload your assignment to Blackboard as a PDF.\n\nFor questions 1–5, please consider the following dataset.\n\n\n\n\n\n\n\n\n\n\n\n\nName\nSalary\nYears Experience\nJob Description\nEducation Level\n\n\n\n\nJane\n$45,000\n1\nTeacher\nCollege Degree\n\n\nSam\n$68,000\n3\nAnalyst\nCollege Degree\n\n\nEdwin\n$92,000\n5\nPolice\nHigh School\n\n\nShareefa\n$140,000\n20\nManager\nGraduate Degree\n\n\nDwight\n$72,000\n12\nNurse\nCollege Degree\n\n\nJiang\n$68,000\n9\nTeacher\nCollege Degree\n\n\nLeBron\n$48,000,000\n21\nAthlete\nHigh School",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 2"
-    ]
-  },
-  {
-    "objectID": "assignments/assign2.html#dataset",
-    "href": "assignments/assign2.html#dataset",
-    "title": "Assignment 2",
-    "section": "",
-    "text": "Name\nSalary\nYears Experience\nJob Description\nEducation Level\n\n\n\n\nJane\n$45,000\n1\nTeacher\nCollege Degree\n\n\nSam\n$68,000\n3\nAnalyst\nCollege Degree\n\n\nEdwin\n$92,000\n5\nPolice\nHigh School\n\n\nShareefa\n$140,000\n20\nManager\nGraduate Degree\n\n\nDwight\n$72,000\n12\nNurse\nCollege Degree\n\n\nJiang\n$68,000\n9\nTeacher\nCollege Degree\n\n\nLeBron\n$48,000,000\n21\nAthlete\nHigh School",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 2"
-    ]
-  },
-  {
-    "objectID": "assignments/assign5.html",
-    "href": "assignments/assign5.html",
-    "title": "Assignment 5",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 5"
-    ]
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "📅 Schedule",
-    "section": "",
-    "text": "A Note on Books\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\nWhile you may be most tempted to use PNA (and it does have a nice applied presentation), the content itself jumps around a bit relative to the sequencing of our class, which occaisionally has you reading things ahead of time or before time (or sometimes missing things in proper sequence) so you might find one of the other options more to your liking.\n\n\n\n\n\n\n\n\n\n\n\n\nUnit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 17)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam\n\n\n\n\n\n\n*️ If time allows."
-  },
-  {
-    "objectID": "schedule.html#course-topics",
-    "href": "schedule.html#course-topics",
-    "title": "📅 Schedule",
-    "section": "",
-    "text": "A Note on Books\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\nWhile you may be most tempted to use PNA (and it does have a nice applied presentation), the content itself jumps around a bit relative to the sequencing of our class, which occaisionally has you reading things ahead of time or before time (or sometimes missing things in proper sequence) so you might find one of the other options more to your liking.\n\n\n\n\n\n\n\n\n\n\n\n\nUnit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 17)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam\n\n\n\n\n\n\n*️ If time allows."
-  },
-  {
-    "objectID": "schedule.html#a-word-on-reading",
-    "href": "schedule.html#a-word-on-reading",
-    "title": "📅 Schedule",
-    "section": "📖 A Word on Reading",
-    "text": "📖 A Word on Reading\nReading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).\nEach book has its strengths:\n\nSTA Introduction to the Practice of Statistics: traditional, math-heavy, detailed.\nPNA Applied Statistics for Public and Nonprofit Administration: focused on applied public administration, still detailed. Sequenced differently.\nMtM Minus the Math: conceptual, common-language, intuition-focused, but light on probability and detail.\n\nYou may use any as your primary reference. If you need more depth, consult STA or PNA. If you want lighter or more intuitive explanations, lean on MtM.\nWe will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second."
-  },
-  {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "",
-    "text": "The following document reflects the approved campus-wide academic policies of Syracuse University. For more information and detail, please consult the full documentation of University policies here."
-  },
-  {
-    "objectID": "policies.html#academic-drop-deadline",
-    "href": "policies.html#academic-drop-deadline",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "⚠️ Academic Drop Deadline",
-    "text": "⚠️ Academic Drop Deadline\nAs part of our efforts to track satisfactory academic progress, the Academic Drop Deadline and the Financial Drop deadline will both occur on September 15, 2025, for the fall semester and February 2, 2026, for the spring semester. Students may still withdraw from courses after these deadlines; this would place a ‘WD’ grade on their transcripts. Students enrolled in “flex” classes (Flexibly formatted classes) have different deadlines and will need to check MySlice for the Academic and Financial Drop deadlines that pertains to their class."
-  },
-  {
-    "objectID": "policies.html#academic-integrity",
-    "href": "policies.html#academic-integrity",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "📖 Academic Integrity",
-    "text": "📖 Academic Integrity\nAs a pre-eminent and inclusive student-focused research institution, Syracuse University considers academic integrity at the forefront of learning, serving as a core value and guiding pillar of education. Syracuse University’s Academic Integrity Policy provides students with the necessary guidelines to complete academic work with integrity throughout their studies. Students are required to uphold both course-specific and university-wide academic integrity expectations such as crediting your sources, doing your own work, communicating honestly, and supporting academic integrity. The full Syracuse University Academic Integrity Policy can be viewed by visiting the Syracuse University Policies website.\nUpholding Academic Integrity includes the protection of faculty’s intellectual property. Students should not upload, distribute, or share instructors’ course materials, including presentations, assignments, exams, or other evaluative materials without permission. Using websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others, which are then presented as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation. All academic integrity expectations that apply to in-person assignments, quizzes, and exams also apply online.\nStudents found in violation of the policy are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the School or College where the course is offered. Students may not drop or withdraw from courses in which they face a suspected violation. Any established violation in this course may result in course failure regardless of violation level."
-  },
-  {
-    "objectID": "policies.html#artificial-intelligence",
-    "href": "policies.html#artificial-intelligence",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "🤖 Artificial Intelligence",
-    "text": "🤖 Artificial Intelligence\nBased on the assignments in this course and our specified learning outcomes, the full use of artificial intelligence as a tool, with disclosure and citation, is permitted in this course. Students do not need to ask permission to use these tools before starting an assignment or exam, but they must explicitly and fully indicate which tools were used and describe how they were used.\nPlease also see Syracuse University’s general campus AI policies here."
-  },
-  {
-    "objectID": "policies.html#academic-integrity-online",
-    "href": "policies.html#academic-integrity-online",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "💻 Academic Integrity Online",
-    "text": "💻 Academic Integrity Online\nAll academic integrity expectations that apply to in-person quizzes and exams also apply to online quizzes and exams. In this course, all work submitted for quizzes and exams must be yours alone. Discussing quiz or exam questions with anyone during the quiz or exam period violates academic integrity expectations for this course.\nUsing websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others and present the work as your own violates academic integrity expectations in this course and may be classified as a Level 3 violation, resulting in suspension or expulsion from Syracuse University."
-  },
-  {
-    "objectID": "policies.html#attendance-policy",
-    "href": "policies.html#attendance-policy",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "👤 Attendance Policy",
-    "text": "👤 Attendance Policy\nAttendance in classes is expected in all courses at Syracuse University. It is a federal requirement that faculty promptly notify the university of students who do not attend or cease to attend any class. Faculty will use Early-Semester Progress Reports and Mid-Semester Progress Reports in Orange SUccess to alert the Registrar and Financial Aid Office on non-attendance. For more information visit:\nFaculty: Information for Faculty: Non-attendance or Stopped Attending Students: Information for Students: Non-attendance or Stopped Attending\nIf a student is unable to participate in-person or virtually for an extended period of time (48 hours or more), the student may request an absence notification from their home school/college Dean’s Office or through Student Outreach and Support office. Instructors will be notified via the “Absence Notification” flag in Orange SUccess.\nBarnes Center at the Arch (Health, Counseling, etc.) staff will not provide medical excuse notes for students. When Barnes Center staff determine it is medically necessary to remove a student from classes, they will coordinate with Student Outreach and Support case management staff to provide appropriate notification to faculty through Orange Success. For absences lasting less than 48 hours, students are encouraged to discuss academic arrangements directly with their faculty.\nAdditional information may be found at Student Outreach and Support: Absence Notifications."
-  },
-  {
-    "objectID": "policies.html#blackboard",
-    "href": "policies.html#blackboard",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "🖼 Blackboard",
-    "text": "🖼 Blackboard\nThis class will use the Blackboard Learning Management to house the syllabus, course content, links to external course materials, assignments, quizzes, exams, feedback, and grades. Due dates and times in Blackboard are stored in Coordinated Universal Time (UTC) and displayed for each user based on the time zone setting of their computer and data from their internet browser. The system will always display the time zone being used. If an instructor sets a due date of 11pm Eastern time, a student in the Pacific time zone will see a due date of 8pm.”\nInformation about Blackboard is available on Answers Blackboard; alternatively, you can contact Information Technology Services by sending an email to help@syr.edu, calling 315.443.2677, or in-person at the ITS Service Center, located at 1-227 CST in the Life Sciences Complex. Business hours for the Service Center can be found on the ITS website."
-  },
-  {
-    "objectID": "policies.html#discrimination-and-harassment",
-    "href": "policies.html#discrimination-and-harassment",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "🚫 Discrimination and Harassment",
-    "text": "🚫 Discrimination and Harassment\nThe University does not discriminate and prohibits harassment or discrimination related to any protected category including creed, ethnicity, citizenship, sexual orientation, national origin, sex, gender, pregnancy, reproductive health decisions, disability, marital status, political or social affiliation, age, race, color, veteran status, military status, religion, sexual orientation, domestic violence status, genetic information, gender identity, gender expression or perceived gender.\nAny complaint of discrimination or harassment related to any of these protected bases should be reported to Sheila Johnson-Willis, the University’s Chief Equal Opportunity & Title IX Officer for Faculty and Staff. She is responsible for coordinating compliance efforts under the various laws including Titles VI, VII, IX and Section 504 of the Rehabilitation Act. She can be contacted at Equal Opportunity, Inclusion, and Resolution Services, 621 Skytop Road, Suite 1001, Syracuse University, Syracuse, NY 13244-1120; or by email: equalopp@syr.edu; or by telephone: 315-443-4018."
-  },
-  {
-    "objectID": "policies.html#diversity",
-    "href": "policies.html#diversity",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "🌍 Diversity",
-    "text": "🌍 Diversity\nIt is the intent of this course for students from all diverse backgrounds and perspectives to be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. It is also critical to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let your instructor know ways to improve the effectiveness of the course for you personally or for other students or student groups."
-  },
-  {
-    "objectID": "policies.html#inclusion",
-    "href": "policies.html#inclusion",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "🤝 Inclusion",
-    "text": "🤝 Inclusion\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process.\nIf you would like to discuss disability accommodations or register with CDR, please visit the Center for Disability Resources. Call (315) 443-4498 or email disabilityresources@syr.edu for more information.\nThe CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Since academic accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible."
-  },
-  {
-    "objectID": "policies.html#faith-and-religious-accommodations",
-    "href": "policies.html#faith-and-religious-accommodations",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "🌐 Faith and Religious Accommodations",
-    "text": "🌐 Faith and Religious Accommodations\nSyracuse University’s Religious Observances Policy recognizes the diversity of faiths represented in the campus community and protects the rights of students, faculty, and staff to observe religious holy days according to their traditions. Under the policy, students are given an opportunity to make up any examination, study, or work requirements that may be missed due to a religious observance, provided they notify their instructors no later than the academic drop deadline. For observances occurring before the drop deadline, notification is required at least two academic days in advance. Students may enter their observances in MySlice under Student Services/Enrollment/My Religious Observances/Add a Notification."
-  },
-  {
-    "objectID": "policies.html#health-and-wellness",
-    "href": "policies.html#health-and-wellness",
-    "title": "🏫 Campus Academic Resources & Policies",
-    "section": "🩺 Health and Wellness",
-    "text": "🩺 Health and Wellness\nWell-being and mental health are significant predictors of academic success. It is critical to take care of yourself physically and emotionally and to effectively navigate stress, anxiety, and depression. Please familiarize yourself with the range of resources the Barnes Center provides https://ese.syr.edu/bewell/ and seek out support for mental health concerns as needed. Counseling services are available 24/7, 365 days, at 315-443-8000."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "assignments/assign10.html",
-    "href": "assignments/assign10.html",
-    "title": "Assignment 10",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 10"
-    ]
-  },
-  {
-    "objectID": "assignments/assign3.html",
-    "href": "assignments/assign3.html",
-    "title": "Assignment 3",
-    "section": "",
-    "text": "Instructions\nFor this assignment, you must turn in two documents:\n1. Your answers (as a PDF), and\n2. A plain-text .do file containing the Stata code you used to arrive at your answers.\nPlease consider the data in the following table. You may also find this data as a .dta file on the course Blackboard page.\n\n\nDataset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlayer\nG\nMP\nFG\nFGA\n3P\n3PA\nTRB\nAST\nSTL\nBLK\nTOV\nPF\nPTS\n\n\n\n\nCarmelo Anthony\n35\n1274\n277\n612\n56\n166\n349\n77\n55\n30\n77\n77\n778\n\n\nHakim Warrick\n35\n1146\n197\n364\n0\n1\n297\n57\n49\n44\n92\n94\n518\n\n\nGerry McNamara\n35\n1236\n146\n364\n85\n238\n80\n155\n77\n2\n85\n69\n467\n\n\nKueth Duany\n35\n944\n133\n303\n43\n123\n128\n71\n36\n17\n57\n75\n386\n\n\nBilly Edelin\n23\n533\n80\n146\n0\n2\n78\n58\n24\n2\n53\n22\n208\n\n\nJosh Pace\n32\n469\n62\n118\n0\n2\n86\n60\n26\n8\n37\n33\n138\n\n\nCraig Forth\n35\n618\n56\n115\n0\n1\n116\n30\n15\n41\n39\n90\n132\n\n\nJeremy McNeil\n35\n657\n54\n81\n0\n0\n146\n8\n9\n100\n36\n112\n117\n\n\nMatt Gorman\n9\n76\n8\n23\n0\n1\n19\n1\n3\n2\n5\n14\n21\n\n\nAndrew Kouwe\n6\n10\n3\n5\n2\n2\n2\n2\n0\n0\n1\n2\n10\n\n\nRonneil Herron\n5\n9\n2\n3\n0\n0\n5\n0\n0\n0\n1\n0\n6\n\n\nXzavier Gaines\n6\n21\n1\n8\n0\n3\n2\n1\n1\n0\n2\n0\n2\n\n\nGary Hall\n5\n6\n1\n1\n0\n0\n2\n2\n1\n1\n0\n0\n2\n\n\nTyrone Albright\n7\n20\n0\n2\n0\n1\n2\n1\n2\n0\n3\n1\n0\n\n\nJosh Brooks\n5\n6\n0\n1\n0\n0\n1\n0\n0\n0\n0\n1\n0\n\n\n\nVariable definitions:\n\nG = Games Played\n\nMP = Minutes Played\n\nFG = Field Goals Made\n\nFGA = Field Goals Attempted\n\n3P = Three Point Field Goals Made\n\n3PA = Three Point Field Goals Attempted\n\nTRB = Total Rebounds\n\nAST = Assists\n\nSTL = Steals\n\nBLK = Blocks\n\nTOV = Turnovers\n\nPF = Personal Fouls\n\nPTS = Points Scored\n\n\n\n\nQuestions\n\nWhat is the unit of analysis (the cases) in this table?\nIdentify the level of measurement of each variable.\nWhat is the mean, median, and mode of the “games played” variable in this data?\nDo you think the mean, median, or mode is the best estimate of central tendency for games played? Why?\nMany analysts like to create a statistic called “Stocks,” which is the sum of steals and blocks by a player. Create this variable as STK. Who had the most stocks on the team?\nCalculate each player’s field goal percentage and three point field goal percentage, storing each in new variables FGP and TPP. Who led the team in field goal percentage and three point percentage?\nTransform the variable PTS, generating a new variable PPG (average points scored per game played). How many points per game did Carmelo Anthony, Gerry McNamara, Josh Pace, and Jeremy McNeil average? Who led the team in points per game?\nDo the same for 3P, TRB, AST, STL, BLK, and TOV. Who led the Orange in each statistical category per game?\nTransform PTS again to generate PPM (points per minute played). Who led the Orange in points per minute?\nCreate a scatterplot with points per minute (PPM) on the Y axis and minutes played (MP) on the X axis. Add a best-fit line. What is the relationship between points per minute and minutes played?",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 3"
-    ]
-  },
-  {
-    "objectID": "assignments/assign12.html",
-    "href": "assignments/assign12.html",
-    "title": "Assignment 12",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 12"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "Instructions\nAnswer all questions. Please upload your assignment to Blackboard as a PDF.\n\n\n\nQuestions\n\nWhat is your name and program of study at Syracuse?\n(Optional: provide your pronouns, if you wish.)\nWhat is your prior experience with statistics and data analysis?\nWhat are you hoping to get out of this class?\nPlease include a picture of yourself!\n\nIt can be anything – just make sure that you are the only person in the picture so I can clearly identify you.",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign6.html",
-    "href": "assignments/assign6.html",
-    "title": "Assignment 6",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 6"
-    ]
-  },
-  {
-    "objectID": "assignments/assign8.html",
-    "href": "assignments/assign8.html",
-    "title": "Assignment 8",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments",
-      "Assignment 8"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "📝 Assignments",
-    "section": "",
-    "text": "Hello and welcome to the assignments page for our course. All assignments are posted here.\nNote that, while you can find assignments here, submission of assignments are in the course blackboard.",
-    "crumbs": [
-      "📚 Syllabus",
-      "Assignments"
-    ]
-  },
-  {
-    "objectID": "assignments/prac2.html",
-    "href": "assignments/prac2.html",
-    "title": "Practicum 2",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Syllabus",
-      "Practica",
-      "Practicum 2"
-    ]
   },
   {
     "objectID": "index.html",
