@@ -3,7 +3,7 @@ project:
   output-dir: ../_site/   # or just "print" if you prefer
 
 book:
-  title: "PAI 721 - Course Packet"
+  title: "PAI721"
   subtitle: "Fall 2025"
   author: "Jack Reilly"
   date: today
