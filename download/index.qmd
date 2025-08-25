@@ -3,4 +3,4 @@ title: "Course Packet"
 format: pdf
 ---
 
-This course packet is an automatically generated document from the main course website ([https://jacklreilly.github.io/pai721-f25](https://jacklreilly.github.io/pai721-f25)), and contains the core course documents - the syllabus, the topic schedule, and course/university policies.  Certain formatting may look better on the web, and the website is always the most current source of information.
+This course packet is an automatically generated document from the main course website ([https://jacklreilly.github.io/pai721-f25](https://jacklreilly.github.io/pai721-f25)), and contains the core course documents - the syllabus, the topic schedule, and course/university policies.  Certain formatting may look better on the web, some hyperlinks may not work in the downloaded document, and the website is always the most current source of information.
