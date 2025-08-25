@@ -3,7 +3,11 @@ project:
   output-dir: ../_site/download   # or just "print" if you prefer
 
 book:
-  title: "pai721f25"
+  title: "PAI 721 - Course Packet"
+  subtitle: "Fall 2025"
+  author: 
+    - name: "Jack Reilly"
+    - affiliation: "Maxwell School, Syracuse University"
   chapters:
     - index.qmd                # cover/intro page (required)
     - ../syllabus.qmd
@@ -15,5 +19,7 @@ format:
     toc: true
     documentclass: article
     top-level-division: section
+    output-file: 721coursepack
   docx:
     toc: true
+    output-file: 721coursepack
