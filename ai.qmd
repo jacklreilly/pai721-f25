@@ -85,7 +85,7 @@ Note a common feature here: LLMs are things I use as tools to *enhance* my own p
 
 [^replace]: Another way to think about it: ChatGPT never writes a paragraph for me, but it does occasionally help me find the right word I'm looking for (like a dictionary) or identify the right R library to use.
 
-Another way to think of it: Steve Jobs, founder of Apple, had a favorite metahpor he liked to use when selling the virtues of computers: a computer, he claimed, [is a bicycle for the mind](https://www.youtube.com/watch?v=ob_GX50Za6c). The advent of technical progress means that your ChatGPT-equipped Apple laptop may be more like an automobile for your mind, rather than a bicylce, but the parallel is still apt: neither the bicyle nor the automobile replaces your own mind; it merely augments it.
+Another way to think of it: Steve Jobs, founder of Apple, had a favorite metahpor he liked to use when selling the virtues of computers: a computer, he claimed, [is a bicycle for the mind](https://www.youtube.com/watch?v=ob_GX50Za6c). The advent of technical progress means that your ChatGPT-equipped Apple laptop may be more like an automobile for your mind, rather than a bicycle, but the parallel is still apt: neither the bicyle nor the automobile replaces your own mind; it merely augments it.
 
 ## Bringing it Back Around: AI in Class
 
