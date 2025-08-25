@@ -83,7 +83,7 @@ Now, this isn't to say that my way is the only ethical way to use AI.  I think m
 
 Note a common feature here: LLMs are things I use as tools to *enhance* my own productivity, not as *minds to replace my own*.[^replace]  Despite the hype and publicity of certain AI companies and their founders, there are a number of good reasons to doubt that LLMs are anywhere near human level intelligence (or [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence), as many like to refer to it). There are even lots of good reasons to believe the entire concept of "reaching human intelligence" (again, AGI), is fundamentally flawed - beliefs held by a number of cognitive scientists, psychologists, computer scientists, and philosophers with far more expertise in minds, brains, logic, and programming than you or me.
 
-[^replace]: Another way to think about it: ChatGPT never writes a paragraph for me, but it does occasionally help me find the right word I'm looking for (like a dictionary) or identify the right R library to use.
+[^replace]: Another way to think about it: ChatGPT never writes a paragraph for me, but it does occasionally help me find the right word I'm looking for (like a dictionary) or identify the right way to use particular commands in code.
 
 Another way to think of it: Steve Jobs, founder of Apple, had a favorite metahpor he liked to use when selling the virtues of computers: a computer, he claimed, [is a bicycle for the mind](https://www.youtube.com/watch?v=ob_GX50Za6c). The advent of technical progress means that your ChatGPT-equipped Apple laptop may be more like an automobile for your mind, rather than a bicycle, but the parallel is still apt: neither the bicyle nor the automobile replaces your own mind; it merely augments it.
 

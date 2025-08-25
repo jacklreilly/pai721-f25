@@ -22,7 +22,7 @@ Students found in violation of the policy are subject to grade sanctions determi
 
 ## 🤖 Artificial Intelligence
 
-Based on the assignments in this course and our specified learning outcomes, the full use of artificial intelligence as a tool, with disclosure and citation, is permitted in this course. Students do not need to ask permission to use these tools before starting an assignment or exam, but they must explicitly and fully indicate which tools were used and describe how they were used.
+Based on the specific learning outcomes and assignments in this course, artificial intelligence is permitted on the following: all weekly assignments. Artificial intelligence is *not* permitted in tests and practicums. See each assignment, quiz, or exam instructions for more information about what artificial intelligence tools are permitted and to what extent, as well as citation requirements. If no instructions are provided for a specific assignment, then no use of any artificial intelligence tool is permitted. Any AI use beyond that which is detailed in course assignments is explicitly prohibited except when documented permission is granted.
 
 Please also see Syracuse University's [general campus AI policies here](https://its.syr.edu/artificialintelligence/aiguidelines/).
 
