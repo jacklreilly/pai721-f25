@@ -8,8 +8,8 @@ website:
   repo-url: https://github.com/jacklreilly/pai721-f25
   navbar:
     left:
-      - href: syllabus.qmd
-        text: 📚 Syllabus
+      - href: overview.qmd
+        text: 📚 Overview
       - href: schedule.qmd
         text: 📅 Schedule
       - href: assignments/index.qmd
