@@ -15,10 +15,10 @@ book:
 
 format:
   pdf:
-    toc: true
+    toc: false
     documentclass: article
     top-level-division: section
     output-file: pai721f25
   docx:
-    toc: true
+    toc: false
     output-file: pai721f25
