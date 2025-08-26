@@ -13,7 +13,7 @@ Hello and welcome to the course website for PAI 721, "Introduction to Statistics
 
 - Statistics and data analysis is honestly one of my favorite things to teach. I've been teaching them for over 15 years now, at [multiple](https://www.ucdavis.edu) [different](https://www.ncf.edu) [institutions](https://www.syracuse.edu/), and I'm very much looking forward to doing so again this semester with you all.  
 
-- I also research and write papers on [American politics and quantitative methods](https://jacklreilly.github.io/research) and was born and raised right here in beautiful [Upstate New York](https://discoverupstateny.com). 
+- I also research and write papers on [American politics and quantitative methods](https://jacklreilly.github.io/research) and was born and raised right here in beautiful [Upstate New York](https://discoverupstateny.com).  
 
 Please take a minute to browse this website, where you'll find the course [syllabus](syllabus.qmd), topic [schedule](schedule.qmd), class and university academic [policies](policies.qmd), and [more](ai.qmd).
 
