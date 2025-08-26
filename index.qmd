@@ -15,6 +15,6 @@ Hello and welcome to the course website for PAI 721, "Introduction to Statistics
 
 - I also research and write papers on [American politics and quantitative methods](https://jacklreilly.github.io/research) and was born and raised right here in beautiful [Upstate New York](https://discoverupstateny.com).  
 
-Please take a minute to browse this website, where you'll find the course [syllabus](syllabus.qmd), topic [schedule](schedule.qmd), class and university academic [policies](policies.qmd), and [more](ai.qmd).
+Please take a minute to browse this website, where you'll find the course [overview](overview.qmd), topic [schedule](schedule.qmd), class and university academic [policies](policies.qmd), and [more](ai.qmd).
 
-Finally, if you'd like this website and syllabus in an alternate format, please note you can download .pdfs or .docxs of any page on the site simply by clicking the link on the page.  You can also download a full copy of the main syllabus contents of the site (course overview, schedule, and policies) as a course pack [here](syllabus.qmd).
+Finally, if you'd like this website and syllabus in an alternate format, please note you can download .pdfs or .docxs of any page on the site.  You can also download a full copy of the [syllabus here](syllabus.qmd).
