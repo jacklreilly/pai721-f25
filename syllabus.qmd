@@ -10,6 +10,9 @@ subtitle: "Course Syllabus"
 format: 
     html: default
     pdf: default
+      output-file: pai721_f25_syllabus
     docx: default
+      output-file: pai721_f25_syllabus
     rtf: default
+      output-file: pai721_f25_syllabus
 ---
