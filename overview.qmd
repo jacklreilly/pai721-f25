@@ -4,6 +4,7 @@ format:
     html: default
     pdf: default
     docx: default
+    rtf: default
 ---
 
 # Course Information
@@ -43,8 +44,8 @@ format:
 
 ::: {.column width="45%"}
 ### Quick Links
-- <i class="bi bi-easel"></i> **Blackboard:** <a href="http://blackboard.syr.edu" target="_blank">blackboard.syr.edu</a>  
-- <i class="bi bi-pc-display"></i> **Remote Desktop:** <a href="http://rds.syr.edu" target="_blank">rds.syr.edu</a>  
+- <i class="bi bi-easel"></i> **Blackboard:** <a href="https://blackboard.syracuse.edu/ultra/courses/_547643_1/outline" target="_blank">blackboard.syr.edu</a>  
+- <i class="bi bi-pc-display"></i> **Course Drive:** <a href="https://sumailsyr-my.sharepoint.com/:f:/r/personal/jlreilly_syr_edu/Documents/Shared%20Folders/Courses/Forward-Facing/PAI%20721%20-%20Fall%202025?csf=1&web=1&e=RisDNi" target="_blank">onedrive link</a>  
 - <i class="bi bi-journal-text"></i> **Syllabus & Materials:** [right here](https://jacklreilly.github.io/pai721-f25/syllabus)
 :::
 :::

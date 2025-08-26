@@ -12,8 +12,6 @@ website:
         text: 📚 Overview
       - href: schedule.qmd
         text: 📅 Schedule
-      - href: assignments/index.qmd
-        text: 📝 Assignments
       - href: policies.qmd
         text: 🏫 Policies
       - href: ai.qmd

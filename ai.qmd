@@ -5,6 +5,7 @@ format:
     html: default
     pdf: default
     docx: default
+    rtf: default
 ---
 
 *You can find the formal AI policy for this course in the "Policies" section of the syllabus/website. Because of the fundamental challenges AI poses for how we all think about education, however, a deeper discussion of AI is warranted.*
