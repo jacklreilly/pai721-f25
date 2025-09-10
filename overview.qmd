@@ -10,7 +10,7 @@ format:
 
 ::: {.columns}
 ::: {.column width="55%"}
-### Quick Links
+### Quick Info
 - <i class="bi bi-building"></i> **Office:** Eggers 225F  
 - <i class="bi bi-telephone"></i> **Phone:** 315-443-2687  
 - <i class="bi bi-envelope"></i> **E-mail:** <a href="mailto:jlreilly@syr.edu">jlreilly@syr.edu</a>
