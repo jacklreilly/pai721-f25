@@ -19,8 +19,8 @@ format:
 
 ::: {.column width="45%"}
 ###  
-- <i class="bi bi-easel"></i> **Blackboard:** <a href="https://blackboard.syracuse.edu/ultra/courses/_547643_1/outline" target="_blank">blackboard.syr.edu</a>  
-- <i class="bi bi-pc-display"></i> **Course Drive:** <a href="https://sumailsyr-my.sharepoint.com/:f:/g/personal/jlreilly_syr_edu/Eu4KEF0yXJRDioxxAORsreYBqln2ON75JFA4hx8u6CfVrg?e=kP63Ow" target="_blank">onedrive link</a>  
+- <i class="bi bi-easel"></i> **Blackboard:** [link](https://blackboard.syracuse.edu/")
+- <i class="bi bi-pc-display"></i> **Course Drive:** [onedrive link](https://sumailsyr-my.sharepoint.com/:f:/g/personal/jlreilly_syr_edu/Eu4KEF0yXJRDioxxAORsreYBqln2ON75JFA4hx8u6CfVrg?e=kP63Ow)
 - <i class="bi bi-journal-text"></i> **Syllabus & Materials:** [right here](https://jacklreilly.github.io/pai721-f25/syllabus)
 :::
 :::
