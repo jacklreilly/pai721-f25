@@ -7,7 +7,32 @@ format:
     rtf: default
 ---
 
+
+::: {.columns}
+::: {.column width="55%"}
+### Quick Links
+- <i class="bi bi-building"></i> **Office:** Eggers 225F  
+- <i class="bi bi-telephone"></i> **Phone:** 315-443-2687  
+- <i class="bi bi-envelope"></i> **E-mail:** <a href="mailto:jlreilly@syr.edu">jlreilly@syr.edu</a>
+
+:::
+
+::: {.column width="45%"}
+###  
+- <i class="bi bi-easel"></i> **Blackboard:** <a href="https://blackboard.syracuse.edu/ultra/courses/_547643_1/outline" target="_blank">blackboard.syr.edu</a>  
+- <i class="bi bi-pc-display"></i> **Course Drive:** <a href="https://sumailsyr-my.sharepoint.com/:f:/g/personal/jlreilly_syr_edu/Eu4KEF0yXJRDioxxAORsreYBqln2ON75JFA4hx8u6CfVrg?e=kP63Ow" target="_blank">onedrive link</a>  
+- <i class="bi bi-journal-text"></i> **Syllabus & Materials:** [right here](https://jacklreilly.github.io/pai721-f25/syllabus)
+:::
+:::
+
 # Course Information
+
+## Class
+
+
+<i class="bi bi-geo-alt"></i> Location: Eggers Hall 113 <br>
+
+<i class="bi bi-clock"></i> Time: Tuesday and Thursday, 9:30 AM - 10:50 AM <br>
 
 ## Instructor
 
@@ -26,29 +51,6 @@ format:
   </a>
 </div>
 
-## Class
-
-
-<i class="bi bi-geo-alt"></i> Location: Eggers Hall 113 <br>
-
-<i class="bi bi-clock"></i> Time: Tuesday and Thursday, 9:30 AM - 10:50 AM <br>
-
-::: {.columns}
-::: {.column width="55%"}
-### Contact & Location
-- <i class="bi bi-building"></i> **Office:** Eggers 225F  
-- <i class="bi bi-telephone"></i> **Phone:** 315-443-2687  
-- <i class="bi bi-envelope"></i> **E-mail:** <a href="mailto:jlreilly@syr.edu">jlreilly@syr.edu</a>
-
-:::
-
-::: {.column width="45%"}
-### Quick Links
-- <i class="bi bi-easel"></i> **Blackboard:** <a href="https://blackboard.syracuse.edu/ultra/courses/_547643_1/outline" target="_blank">blackboard.syr.edu</a>  
-- <i class="bi bi-pc-display"></i> **Course Drive:** <a href="https://sumailsyr-my.sharepoint.com/:f:/g/personal/jlreilly_syr_edu/Eu4KEF0yXJRDioxxAORsreYBqln2ON75JFA4hx8u6CfVrg?e=kP63Ow" target="_blank">onedrive link</a>  
-- <i class="bi bi-journal-text"></i> **Syllabus & Materials:** [right here](https://jacklreilly.github.io/pai721-f25/syllabus)
-:::
-:::
 
 ## Description
 
@@ -154,11 +156,11 @@ The midterm and final are traditional timed exams given in class on pen and pape
 
 ## Etiquette & Decorum
 
-A college course is fundamentally a learning community. Be courteous to fellow students and the professor. Don't let yourself be distracted by your cell phone in class, and don't let what is on your computer screen distract fellow students in the class, either.
+This is a graduate course: I take it for granted that you have a basic interest in the material, an enthusiastic attitude toward participation, and a respectful attitude to everyone in the room. A university classroom is fundamentally a learning community: be courteous to fellow students and the professor, don’t let yourself be distracted by your cell phone in class, and don’t let what is on your computer screen distract fellow students in the class, either.
 
 ## Office & Consultation Hours, Appointments
 
-I encourage you to chat with me at any point if you have questions about the course. You can schedule a meeting with me by going to my website here: <http://jacklreilly.github.io/> and sign up for time at your convenience. You can also always just drop in during my regularly scheduled drop-in office hours without appointment.
+I encourage you to chat with me at any point if you have questions about the course. You can schedule a meeting with me by going to my website here: <http://jacklreilly.github.io/> and sign up for time at your convenience. You can also always just drop in during my regularly scheduled drop-in office hours without appointment, or stop by to see if my door is open: if it’s open, come on in. (Don’t feel like you’re intruding! I’ll tell you if it’s not a good time.)
 
 ## E-mail
 
