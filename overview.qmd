@@ -10,15 +10,7 @@ format:
 
 ::: {.columns}
 ::: {.column width="55%"}
-### Quick Info
-- <i class="bi bi-building"></i> **Office:** Eggers 225F  
-- <i class="bi bi-telephone"></i> **Phone:** 315-443-2687  
-- <i class="bi bi-envelope"></i> **E-mail:** <a href="mailto:jlreilly@syr.edu">jlreilly@syr.edu</a>
-
-:::
-
-::: {.column width="45%"}
-###  
+###  Quick Links
 - <i class="bi bi-easel"></i> **Blackboard:** [link](https://blackboard.syracuse.edu/")
 - <i class="bi bi-pc-display"></i> **Course Drive:** [onedrive link](https://sumailsyr-my.sharepoint.com/:f:/g/personal/jlreilly_syr_edu/Eu4KEF0yXJRDioxxAORsreYBqln2ON75JFA4hx8u6CfVrg?e=kP63Ow)
 - <i class="bi bi-journal-text"></i> **Syllabus & Materials:** [right here](https://jacklreilly.github.io/pai721-f25/syllabus)
@@ -36,20 +28,19 @@ format:
 
 ## Instructor
 
-**Prof. Jack Reilly**
+**Professor Jack Reilly**
 
-<i class="bi bi-clock"></i> Office Hours: Tuesday and Thursday, 11 AM - 12 Noon (drop in) <br>
+**Office**: Eggers 225F
 
-<i class="bi bi-laptop"></i> Zoom Hours: Friday, 1 PM - 3 PM [schedule a meeting](https://jacklreilly.github.io/appointments.html)<br>
+**Office Hours**: Tuesday and Thursday, 11 AM - Noon (drop in) and by appointment.[^oh]
 
-<div style="margin-top:0.5rem;">
-  <a class="btn btn-primary btn-sm" href="mailto:jlreilly@syr.edu">
-    <i class="bi bi-envelope-fill"></i> Email Professor
-  </a>
-  <a class="btn btn-outline-secondary btn-sm" href="https://jacklreilly.github.io/appointments.html" target="_blank">
-    <i class="bi bi-calendar2-week"></i> Schedule a Meeting
-  </a>
-</div>
+[^oh]: In addition to formal office hours, I have an open door policy - feel free to stop by if you see the door open. I'll also be around after office hours until at least 12:30 each Tuesday and Thursday according to student need.  I also am usually around between 3:30 and 4 Tuesdays and Thursdays and free to meet, but give me a heads up if you plan on coming around at that time so I know to be on the lookout for you - I'm sometimes in another room with another class.
+
+**Zoom Hours**: Friday, 1-3 ([schedule online](https://jacklreilly.github.io/appointments.html))
+
+**Phone**: 315-443-2687 (office)
+
+**e-mail**: <jlreilly@syr.edu>
 
 
 ## Description
