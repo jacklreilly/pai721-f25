@@ -1,5 +1,261 @@
 [
   {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Introduction to Statistics",
+    "section": "",
+    "text": "Blackboard: link\n Course Drive: onedrive link\n Syllabus & Materials: right here"
+  },
+  {
+    "objectID": "overview.html#class",
+    "href": "overview.html#class",
+    "title": "Introduction to Statistics",
+    "section": "Class",
+    "text": "Class\n Location: Eggers Hall 113 \n Time: Tuesday and Thursday, 9:30 AM - 10:50 AM"
+  },
+  {
+    "objectID": "overview.html#instructor",
+    "href": "overview.html#instructor",
+    "title": "Introduction to Statistics",
+    "section": "Instructor",
+    "text": "Instructor\nProfessor Jack Reilly\nOffice: Eggers 225F\nOffice Hours: Tuesday and Thursday, 11 AM - Noon (drop in) and by appointment.1\nZoom Hours: Friday, 1-3 (schedule online)\nPhone: 315-443-2687 (office)\ne-mail: jlreilly@syr.edu"
+  },
+  {
+    "objectID": "overview.html#description",
+    "href": "overview.html#description",
+    "title": "Introduction to Statistics",
+    "section": "Description",
+    "text": "Description\nPublic policy and administration decisions are often difficult and risky because decisions must be made with incomplete and imperfect information. The primary purpose of this course is to introduce the basics of modeling and analyzing problems that involve decision-making under uncertainty. A high priority will be placed on learning how to choose the appropriate statistics to examine a particular problem, and how to avoid being misled by statistics presented by others that do not appropriately reflect available information."
+  },
+  {
+    "objectID": "overview.html#objectives",
+    "href": "overview.html#objectives",
+    "title": "Introduction to Statistics",
+    "section": "Objectives",
+    "text": "Objectives\nStudents will learn how to use quantitative data and statistical tools to understand problems, how to become smart consumers of statistical reports and quantitative information, and how to communicate statistical findings to a variety of audiences."
+  },
+  {
+    "objectID": "overview.html#prerequisites",
+    "href": "overview.html#prerequisites",
+    "title": "Introduction to Statistics",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nA thorough understanding of high school algebra and geometry."
+  },
+  {
+    "objectID": "overview.html#books",
+    "href": "overview.html#books",
+    "title": "Introduction to Statistics",
+    "section": "Books",
+    "text": "Books\nRequired: You will need a core statistics textbook for the class, and there are a few options:\n\nClassic Statistics: Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nFor Public Admin: Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nWeb Option: Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\nYou may find one of these books suits you better than the other. (I recommend trying each!) Each book has a slightly different focus. Favero is more focused on a math-light presentation, preferring conceptual explanations, but is light in detail (especially in probability). Moore et al. is a more traditional statistics book (although still applied). Meier et al. is very clearly targeted at Public Administration, but the content itself jumps around a bit relative to the order our presentation of material. If you have strong opinions about any book at the end of the semester, let me know!\nRecommended: A resource to assist you with Stata usage and coding.\n\nTraditional: Acock, Alan. Stata: A Gentle Introduction. Stata Press. Any edition 4th or newer is sufficient.\nWeb Resources: UCLA Statistical Methods and Data Analytics Stata Learning Modules: https://stats.oarc.ucla.edu/stata/modules/"
+  },
+  {
+    "objectID": "overview.html#software",
+    "href": "overview.html#software",
+    "title": "Introduction to Statistics",
+    "section": "Software",
+    "text": "Software\nStata (any version after 13; the most basic is fine). You can also purchase a student license, which is available for 6- or 12-month intervals, or perpetually. See the Stata website for pricing: https://www.stata.com/order/new/edu/profplus/student-pricing/. If you will be taking PAI 722 in the Spring, I recommend a 12-month license ($94). Otherwise, a 6-month subscription is also available ($48). For those of you who do not wish to purchase your own version, copies are located on the computers in the student clusters in the basement of Eggers. You can also access Stata via Syracuse’s remote desktop: http://rds.syr.edu. Information on how to log in to the remote desktop is available here."
+  },
+  {
+    "objectID": "overview.html#hardware",
+    "href": "overview.html#hardware",
+    "title": "Introduction to Statistics",
+    "section": "Hardware",
+    "text": "Hardware\nThe department will provide a simple scientific calculator on exams for you to use. Graphing calculators are not allowed in exams.\nYou will need to use a computer to complete assignments in this class. If you do not have one of your own, you may use one on campus. The student clusters in the basement of Eggers are likely the most convenient."
+  },
+  {
+    "objectID": "overview.html#online-class-resources",
+    "href": "overview.html#online-class-resources",
+    "title": "Introduction to Statistics",
+    "section": "Online Class Resources",
+    "text": "Online Class Resources\nThis website hosts the official course syllabus as well as course assignments, problems, and readings. In addition, Blackboard is Syracuse University’s course platform. In it, you will find occaisional course announcements, a submission portal for your assignments, and additional materials. In addition, during the semester, solutions to the problem sets and lecture slides will be posted.\nPlease note, however, that this is primarily an in-person, not online, class, and as such, class is the primary source of course-related announcements and material."
+  },
+  {
+    "objectID": "overview.html#overview",
+    "href": "overview.html#overview",
+    "title": "Introduction to Statistics",
+    "section": "Overview",
+    "text": "Overview\nSatisfactory completion of the course requires completion of the following:\n\nRegular course participation and attendance (10%)\nWeekly Assignments (20%)\nPracticum 1 (15%)\nMidterm (20%)\nPracticum 2 (15%)\nFinal (20%)"
+  },
+  {
+    "objectID": "overview.html#attendance",
+    "href": "overview.html#attendance",
+    "title": "Introduction to Statistics",
+    "section": "Attendance",
+    "text": "Attendance\nOne of the guiding principles of my class is that you are adults, and thus, capable of managing your own time. I have little interest in policing your lives. Attendance is kept for each day of class, but you will lose no points on attendance if you miss a couple days: everyone has things that occasionally come up in life that need to be dealt with, and I fully realize that some of those things are things you — very understandably — may not want to discuss with your professor. That’s OK!\nThat said, attendance in class is an important element to doing well in the course. If you miss more than a couple days, it’s advisable to check in. (That way, I also won’t mark your attendance grade off for chronic absenteeism.) The easiest way to do this is just email me with a brief reason when something comes up and you have to miss class (which will also allow me to tell you if you’re missing anything particularly important).\nIf you must miss class, the way to make up what you’ve missed is straightforward: make sure to look over the posted slides, do the reading for the day, get notes from a friend, and still complete the assignment if you are able (or, if it is a day we are going over the assignment, make sure to look over the assignment solutions). If you do these things and still feel like you’re missing something, please feel free to come into my office hours and we can talk it through.\n\n\n\n\n\n\nNoteParticipation\n\n\n\nThere is no formal grade for “participation”. However, I reserve the right to dock a couple points here if you do ridiculous/unprofessional things in class (like answering your cell phone, always coming in late and regularly distracting others, spontaneously breaking out into ribald song in the middle of class, etc)."
+  },
+  {
+    "objectID": "overview.html#weekly-assignments",
+    "href": "overview.html#weekly-assignments",
+    "title": "Introduction to Statistics",
+    "section": "Weekly Assignments",
+    "text": "Weekly Assignments\nThere is an assignment each week in class, due Friday at midnight.2 Assignments will vary in nature: some will be one-off problem sets, some may build on problem sets from a prior week. All material needed for an assignment will be covered by the Tuesday before the assignment is due, and the assignment itself will be posted no later than Tuesday of the week in question. There is no penalty for turning in an assignment up until the Tuesday of the following week. However, no assignment work is accepted after class Tuesday of the following week, as we will go over answers for assignments together in class. There will typically be no assignments on weeks when other significant work (practicums, tests) are due, and students may miss up to two assignments without penalty. Students may also work together on assignments, although each student is ultimately responsible for their own work.\n\n\n\n\n\n\nNoteAssignment Evaluation\n\n\n\nAssignments are evaluated based upon effort and a check completion system. Students who answer every problem will earn a check, with each check worth one point toward their final assignment grade.\n\n\n\n\n\n\n\n\nWarningComputing\n\n\n\nMost homework assignments will be done on a computer using Stata. Do not simply hand in output from Stata. Instead, paste the relevant results into a word processor adding text to explain these results. You must also hand in reproducible script (.do) files with your analysis. (Don’t worry, we’ll cover what this means.)"
+  },
+  {
+    "objectID": "overview.html#practicums",
+    "href": "overview.html#practicums",
+    "title": "Introduction to Statistics",
+    "section": "Practicums",
+    "text": "Practicums\nThe practicums are, essentially, large assignments that are worth more and graded on a scale.3 They are untimed, take-home, cumulative, and will be completed on your own time (and computer). Unlike the weekly assignments, you are also not allowed to work together on them. Their timing corresponds (roughly) with the midterm and final - you may wish to think of them as the “take-home” midterm and “take-home” final, if you prefer."
+  },
+  {
+    "objectID": "overview.html#midterm-and-final",
+    "href": "overview.html#midterm-and-final",
+    "title": "Introduction to Statistics",
+    "section": "Midterm and Final",
+    "text": "Midterm and Final\nThe midterm and final are traditional timed exams given in class on pen and paper. No computer will be available to you, although you will have access to a calculator. Both exams are cumulative across the course."
+  },
+  {
+    "objectID": "overview.html#etiquette-decorum",
+    "href": "overview.html#etiquette-decorum",
+    "title": "Introduction to Statistics",
+    "section": "Etiquette & Decorum",
+    "text": "Etiquette & Decorum\nThis is a graduate course: I take it for granted that you have a basic interest in the material, an enthusiastic attitude toward participation, and a respectful attitude to everyone in the room. A university classroom is fundamentally a learning community: be courteous to fellow students and the professor, don’t let yourself be distracted by your cell phone in class, and don’t let what is on your computer screen distract fellow students in the class, either."
+  },
+  {
+    "objectID": "overview.html#office-consultation-hours-appointments",
+    "href": "overview.html#office-consultation-hours-appointments",
+    "title": "Introduction to Statistics",
+    "section": "Office & Consultation Hours, Appointments",
+    "text": "Office & Consultation Hours, Appointments\nI encourage you to chat with me at any point if you have questions about the course. You can schedule a meeting with me by going to my website here: http://jacklreilly.github.io/ and sign up for time at your convenience. You can also always just drop in during my regularly scheduled drop-in office hours without appointment, or stop by to see if my door is open: if it’s open, come on in. (Don’t feel like you’re intruding! I’ll tell you if it’s not a good time.)"
+  },
+  {
+    "objectID": "overview.html#e-mail",
+    "href": "overview.html#e-mail",
+    "title": "Introduction to Statistics",
+    "section": "E-mail",
+    "text": "E-mail\nEmail is the best way to contact me. I’m usually pretty responsive, but as a baseline, I always aim to get back to you in a modified 24-hour fashion: by the end of the business day the day after you email. So if you email me at 2 PM Tuesday, I’ll get back to you by 6 PM Wednesday; if 10 PM Thursday, by 6 PM Friday; if you email me at 3 PM on Friday, by 6 PM Monday, etc.4\n\n\n\n\n\n\nNote\n\n\n\nIf your email requires a long response, expect me to encourage you to schedule an appointment with me so that we can more effectively discuss your questions."
+  },
+  {
+    "objectID": "overview.html#footnotes",
+    "href": "overview.html#footnotes",
+    "title": "Introduction to Statistics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn addition to formal office hours, I have an open door policy - feel free to stop by if you see the door open. I’ll also be around after office hours until at least 12:30 each Tuesday and Thursday according to student need. I also am usually around between 3:30 and 4 Tuesdays and Thursdays and free to meet, but give me a heads up if you plan on coming around at that time so I know to be on the lookout for you - I’m sometimes in another room with another class.↩︎\nAlthough, I should note, I very much hope you aren’t working on my assignments on Friday at 11 PM! I suggest you work on assignments starting on Tuesday of the week in question and finish them early enough so your Friday afternoon and evening isn’t overcome with them.↩︎\nWhile regular weekly assignments are check/no-check credit, on practicums, you’ll receive a certain number of points out of the total.↩︎\nAgain: usually I’m much faster! But if you don’t hear from me by this baseline, feel free to bump a reminder.↩︎"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Introduction to Statistics",
+    "section": "",
+    "text": "Unit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 16, in class)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam: December 11, 9 AM - 12 Noon, Eggers 060 \n\n\n\n\n\n\n*️ If time allows.\n\n\n\n\n\n\nTipBook Abbreviations\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\n\n\n\n\n\nReading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).\nEach book has its strengths:\n\nSTA Introduction to the Practice of Statistics: traditional, more math-heavy, detailed.\nPNA Applied Statistics for Public and Nonprofit Administration: focused on applied public administration, still detailed. Sequenced differently.\nMtM Minus the Math: conceptual, common-language, intuition-focused, but light on probability and detail.\n\nYou may use any as your primary reference. If you need more depth, consult STA or PNA. If you want lighter or more intuitive explanations, lean on MtM. STA is the “default” text for the class - the one the syllabus was built around. PNA has lots of good examples from Public Administration, but the content sequencing is more intuitive in STA, so we follow that order.\nWe will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second."
+  },
+  {
+    "objectID": "schedule.html#schedule",
+    "href": "schedule.html#schedule",
+    "title": "Introduction to Statistics",
+    "section": "",
+    "text": "Unit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 16, in class)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam: December 11, 9 AM - 12 Noon, Eggers 060 \n\n\n\n\n\n\n*️ If time allows.\n\n\n\n\n\n\nTipBook Abbreviations\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)"
+  },
+  {
+    "objectID": "schedule.html#a-word-on-reading",
+    "href": "schedule.html#a-word-on-reading",
+    "title": "Introduction to Statistics",
+    "section": "",
+    "text": "Reading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).\nEach book has its strengths:\n\nSTA Introduction to the Practice of Statistics: traditional, more math-heavy, detailed.\nPNA Applied Statistics for Public and Nonprofit Administration: focused on applied public administration, still detailed. Sequenced differently.\nMtM Minus the Math: conceptual, common-language, intuition-focused, but light on probability and detail.\n\nYou may use any as your primary reference. If you need more depth, consult STA or PNA. If you want lighter or more intuitive explanations, lean on MtM. STA is the “default” text for the class - the one the syllabus was built around. PNA has lots of good examples from Public Administration, but the content sequencing is more intuitive in STA, so we follow that order.\nWe will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second."
+  },
+  {
+    "objectID": "assignments/assign3.html",
+    "href": "assignments/assign3.html",
+    "title": "Assignment 3",
+    "section": "",
+    "text": "Instructions\nFor this assignment, you must turn in two documents:\n1. Your answers (as a PDF), and\n2. A plain-text .do file containing the Stata code you used to arrive at your answers.\nPlease consider the data in the following table. You may also find this data as a .dta file on the course Blackboard page.\n\n\nDataset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlayer\nG\nMP\nFG\nFGA\n3P\n3PA\nTRB\nAST\nSTL\nBLK\nTOV\nPF\nPTS\n\n\n\n\nCarmelo Anthony\n35\n1274\n277\n612\n56\n166\n349\n77\n55\n30\n77\n77\n778\n\n\nHakim Warrick\n35\n1146\n197\n364\n0\n1\n297\n57\n49\n44\n92\n94\n518\n\n\nGerry McNamara\n35\n1236\n146\n364\n85\n238\n80\n155\n77\n2\n85\n69\n467\n\n\nKueth Duany\n35\n944\n133\n303\n43\n123\n128\n71\n36\n17\n57\n75\n386\n\n\nBilly Edelin\n23\n533\n80\n146\n0\n2\n78\n58\n24\n2\n53\n22\n208\n\n\nJosh Pace\n32\n469\n62\n118\n0\n2\n86\n60\n26\n8\n37\n33\n138\n\n\nCraig Forth\n35\n618\n56\n115\n0\n1\n116\n30\n15\n41\n39\n90\n132\n\n\nJeremy McNeil\n35\n657\n54\n81\n0\n0\n146\n8\n9\n100\n36\n112\n117\n\n\nMatt Gorman\n9\n76\n8\n23\n0\n1\n19\n1\n3\n2\n5\n14\n21\n\n\nAndrew Kouwe\n6\n10\n3\n5\n2\n2\n2\n2\n0\n0\n1\n2\n10\n\n\nRonneil Herron\n5\n9\n2\n3\n0\n0\n5\n0\n0\n0\n1\n0\n6\n\n\nXzavier Gaines\n6\n21\n1\n8\n0\n3\n2\n1\n1\n0\n2\n0\n2\n\n\nGary Hall\n5\n6\n1\n1\n0\n0\n2\n2\n1\n1\n0\n0\n2\n\n\nTyrone Albright\n7\n20\n0\n2\n0\n1\n2\n1\n2\n0\n3\n1\n0\n\n\nJosh Brooks\n5\n6\n0\n1\n0\n0\n1\n0\n0\n0\n0\n1\n0\n\n\n\nVariable definitions:\n\nG = Games Played\n\nMP = Minutes Played\n\nFG = Field Goals Made\n\nFGA = Field Goals Attempted\n\n3P = Three Point Field Goals Made\n\n3PA = Three Point Field Goals Attempted\n\nTRB = Total Rebounds\n\nAST = Assists\n\nSTL = Steals\n\nBLK = Blocks\n\nTOV = Turnovers\n\nPF = Personal Fouls\n\nPTS = Points Scored\n\n\n\n\nQuestions\n\nWhat is the unit of analysis (the cases) in this table?\nIdentify the level of measurement of each variable.\nWhat is the mean, median, and mode of the “games played” variable in this data?\nDo you think the mean, median, or mode is the best estimate of central tendency for games played? Why?\nMany analysts like to create a statistic called “Stocks,” which is the sum of steals and blocks by a player. Create this variable as STK. Who had the most stocks on the team?\nCalculate each player’s field goal percentage and three point field goal percentage, storing each in new variables FGP and TPP. Who led the team in field goal percentage and three point percentage?\nTransform the variable PTS, generating a new variable PPG (average points scored per game played). How many points per game did Carmelo Anthony, Gerry McNamara, Josh Pace, and Jeremy McNeil average? Who led the team in points per game?\nDo the same for 3P, TRB, AST, STL, BLK, and TOV. Who led the Orange in each statistical category per game?\nTransform PTS again to generate PPM (points per minute played). Who led the Orange in points per minute?\nCreate a scatterplot with points per minute (PPM) on the Y axis and minutes played (MP) on the X axis. Add a best-fit line. What is the relationship between points per minute and minutes played?",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 3"
+    ]
+  },
+  {
+    "objectID": "assignments/assign4.html",
+    "href": "assignments/assign4.html",
+    "title": "Assignment 4",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 4"
+    ]
+  },
+  {
+    "objectID": "assignments/assign6.html",
+    "href": "assignments/assign6.html",
+    "title": "Assignment 6",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 6"
+    ]
+  },
+  {
+    "objectID": "assignments/assign8.html",
+    "href": "assignments/assign8.html",
+    "title": "Assignment 8",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 8"
+    ]
+  },
+  {
+    "objectID": "assignments/assign12.html",
+    "href": "assignments/assign12.html",
+    "title": "Assignment 12",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 12"
+    ]
+  },
+  {
+    "objectID": "assignments/prac1.html",
+    "href": "assignments/prac1.html",
+    "title": "Practicum 1",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Practica",
+      "Practicum 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign10.html",
+    "href": "assignments/assign10.html",
+    "title": "Assignment 10",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 10"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "📝 Assignments",
+    "section": "",
+    "text": "Hello and welcome to the assignments page for our course. All assignments are posted here.\nNote that, while you can find assignments here, submission of assignments are in the course blackboard.",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "policies.html",
     "href": "policies.html",
     "title": "Introduction to Statistics",
@@ -84,261 +340,53 @@
     "text": "Well-being and mental health are significant predictors of academic success. It is critical to take care of yourself physically and emotionally and to effectively navigate stress, anxiety, and depression. Please familiarize yourself with the range of resources the Barnes Center provides https://ese.syr.edu/bewell/ and seek out support for mental health concerns as needed. Counseling services are available 24/7, 365 days, at 315-443-8000."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Introduction to Statistics",
     "section": "",
-    "text": "Unit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 16)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam\n\n\n\n\n\n\n*️ If time allows.\n\n\n\n\n\n\nBook Abbreviations\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\n\n\n\n\n\nReading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).\nEach book has its strengths:\n\nSTA Introduction to the Practice of Statistics: traditional, more math-heavy, detailed.\nPNA Applied Statistics for Public and Nonprofit Administration: focused on applied public administration, still detailed. Sequenced differently.\nMtM Minus the Math: conceptual, common-language, intuition-focused, but light on probability and detail.\n\nYou may use any as your primary reference. If you need more depth, consult STA or PNA. If you want lighter or more intuitive explanations, lean on MtM. STA is the “default” text for the class - the one the syllabus was built around. PNA has lots of good examples from Public Administration, but the content sequencing is more intuitive in STA, so we follow that order.\nWe will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second."
+    "text": "Hello and welcome to the course website for PAI 721, “Introduction to Statistics.” I am your instructor, Professor Jack Reilly. You can find more about me on my website, but in short:\n\nStatistics and data analysis is honestly one of my favorite things to teach. I’ve been teaching them for over 15 years now, at multiple different institutions, and I’m very much looking forward to doing so again this semester with you all.\nI also research and write papers on American politics and quantitative methods and was born and raised right here in beautiful Upstate New York.\n\nPlease take a minute to browse this website, where you’ll find the course overview, topic schedule, class and university academic policies, and more.\nFinally, if you’d like this website and syllabus in an alternate format, please note you can download .pdfs or .docxs of any page on the site. You can also download a full copy of the syllabus here."
   },
   {
-    "objectID": "schedule.html#schedule",
-    "href": "schedule.html#schedule",
-    "title": "Introduction to Statistics",
+    "objectID": "ai.html",
+    "href": "ai.html",
+    "title": "Artificial Intelligence & LLMs",
     "section": "",
-    "text": "Unit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 16)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam\n\n\n\n\n\n\n*️ If time allows.\n\n\n\n\n\n\nBook Abbreviations\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)"
+    "text": "You can find the formal AI policy for this course in the “Policies” section of the syllabus/website. This discussion is focused on helpiing you understand and use AI, not on policy."
   },
   {
-    "objectID": "schedule.html#a-word-on-reading",
-    "href": "schedule.html#a-word-on-reading",
-    "title": "Introduction to Statistics",
-    "section": "",
-    "text": "Reading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).\nEach book has its strengths:\n\nSTA Introduction to the Practice of Statistics: traditional, more math-heavy, detailed.\nPNA Applied Statistics for Public and Nonprofit Administration: focused on applied public administration, still detailed. Sequenced differently.\nMtM Minus the Math: conceptual, common-language, intuition-focused, but light on probability and detail.\n\nYou may use any as your primary reference. If you need more depth, consult STA or PNA. If you want lighter or more intuitive explanations, lean on MtM. STA is the “default” text for the class - the one the syllabus was built around. PNA has lots of good examples from Public Administration, but the content sequencing is more intuitive in STA, so we follow that order.\nWe will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second."
+    "objectID": "ai.html#ai-and-learning",
+    "href": "ai.html#ai-and-learning",
+    "title": "Artificial Intelligence & LLMs",
+    "section": "AI and Learning",
+    "text": "AI and Learning\nI have a lot of thoughts about this.1\nArtificial intelligence – in particular, large language models (LLMs) like ChatGPT – are incredibly useful tools. To get the mundane observation out of the way: they are likely to radically change the way we all work over the next several years, just like a variety of other technologies before them (see: the internet, the smartphone, the personal computer, electricity, the steam engine, the printing press, etc.) AI already has a ton of valuable use cases, including in education, data analysis, and research, and the possibilites are only growing.2\nHowever, to make most effective use of AI, it’s also important to understand exactly what AI is. Current AI models are what is known as Large Language Models, or LLMs. An LLM, at its core, is a probabilistic model whose primary function is to produce the next token – usually a word – that is most likely to make sense, based upon some prompt. It does not care if this token represents truth, reality, or a functional line of code – it only cares if the next token seems to make sense. Frequently, what it produces will incidentally be true and/or functional. That is what makes it useful! Frequently, it will also produce nonsense (or what we formally know as a “hallucination”). LLMs have advised people to eat rocks, hold cheese on pizza with glue, failed to perform simple arithmetic with decimals, and made up wholly invented bibliographic references, statistical libraries, and analysis results.\nFurthermore, this incidental relationship to the real world is by design – it is inherent to the way LLMs work. They don’t verify what they say with base reality, they just spit out what sounds good to probabilistic algorithms.3\n\n\n\n\n\n\nTipA Very Academic Note\n\n\n\nLLMs are, in a formal sense, bullshit of the first order. And yes: “bullshit” here is a technical academic term, meaning “language produced without regard for truth.”4\n“The problem here isn’t that large language models hallucinate, lie, or misrepresent the world in some way. It’s that they are not designed to represent the world at all; instead, they are designed to convey convincing lines of text.” (Hicks, Humphries, and Slater, 2024)\nAnd yes, for those interested, the fact that this is from an academic research paper is what makes your normally proper and profanity-averse professor feel somewhat gleefully authorized to use the term “bullshit” in a syllabus.5 There is a more diplomatic and professional seeming word that some use for the profusion of misguided output of AI: slop, which most use to mean the profusion and explosion of low-quality AI material. In short, they mean a profusion of what Frankfurt so artfully frames as bullshit. But with such a pithy and expressive alternative available to us in the expressiveness of the English language, why limit ourselves to using the banal sounding “slop”?\n\n\nThis incidental relationship LLMs have with truth is also what makes relying on an LLM dangerous. You can’t reliably evaluate LLM outputs until you already know enough about a subject to judge good use of language from bad use of language. However, in the very beginning phases of learning how to write code, conduct data analysis, and interpret it, the problem is often that you don’t yet know enough about the subject to reliably evaluate the quality of AI outputs.\nFurthermore, using LLMs early on in your learning can hamper your ability to understand the fundamental conceptual elements of programming and statistics.6 Even more problematically, it is these concepts which, when will understood, will eventually enable your most effecive use of this new class of tools for statistical and data work! Accordingly, if you elect to use generative AI to help you with assignments, I strongly encourage you to use them intelligently, rather than carelessly. Use them to help you learn, not to replace your learning. Even if plugging an assignment prompt directly into ChatGPT gives you an immediate shortcut, it is likely put you at a long-term disadvantage, even when using AI, when compared to students that learned the old school way.7"
   },
   {
-    "objectID": "assignments/assign4.html",
-    "href": "assignments/assign4.html",
-    "title": "Assignment 4",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 4"
-    ]
+    "objectID": "ai.html#using-ai-responsibly",
+    "href": "ai.html#using-ai-responsibly",
+    "title": "Artificial Intelligence & LLMs",
+    "section": "Using AI Responsibly",
+    "text": "Using AI Responsibly\nSo why am I waxing rhapsodic about the dangers of AI use? Is this simply a case of old man yells at cloud? Well, possibly.8 But not really. As we move forward with social life where everyone’s work is in collaboration with, or enhanced by, the use of varying kinds of technology and AI, one of the most critical elements for us to work on is not just how to use AI, but how to use AI responsibly, in a way that furthers our goals as policy analysts, academics, administrators, and communicators.9\nNow, this is not a class on how to use AI, nor on the ethical and responsible use of AI. (It’s a class on data.) But that doesn’t mean ethical and responsible use of AI is not important. There is little in ethics that is purely black and white, but that doesn’t mean that there aren’t some very clear guidelines one should use.\n\n\n\n\n\n\nImportantResponsible AI\n\n\n\nWhenever you use AI tools for a project you attach your name to, you are still taking implicit responsiblity for that project, product, or document. This means that it is incumbent upon you to to the followup work necessary to validate, verify, and confirm that the language and work produced by the machine that works without regard for truth is accurate and functional. AI is not a coauthor,10 and I promise you that OpenAI, Google, Anthropic, Mistral, etc won’t take responsibility for whatever you produce with their tools - that’s on you.11\nJust like any other tool or source you use, all use of AI, in anything you turn in for this class, should be documented and identified in your work. If you used AI to help you write code, note you used AI to help you write code. If you use it to help you write analysis, not how you used it to help you write analysis.\n\n\n\n\n\n\n\n\nCautionEffective AI use in Learning\n\n\n\nAny use of AI in learning environments should enhance, not take the place of, learning fundamental core concepts. Your goal in the class is to learn things important for your future career or for your general edification as a human and scholar; my goal is to do my level best to help you - not a machine - learn these things.\nIn other, more pithy words: don’t outsource the important process of your own learning critical thinking to the philosophical bullshit machine.12\n\n\nPhilosophical musings, however, can be difficult to wrap around practical usage. So, in case it is helpful, and in the interest of full disclosure, here are some of the ways that I use AI in my own work, along with some notes about the pitfalls and things I am careful about:\n\nI look up function calls or code syntax in programming languages I already understand well, and sometimes ask LLMs to write small code snippets for me. This is one of my more common use cases for AI professionally, and one that noticeably speeds things up for me - I can typically at a glance tell if some code I’m given is wonky, and can always validate and verify that the output of the code is what I expect. Note that I do not ask LLMs to write large chunk of code or whole programs for me, which would be more difficult for me to verify in a way that would leave me comfortable taking responsibility for the code.\nI regularly use AI to help me translate between different formats, programming languages, or coding schemes. Much of this syllabus, for instance, was first written in LaTeX, and later translated, with the help of ChatGPT, to quarto.\nI occasionally use agentic LLMs to try to find new literature on a topic. This is a fraught process, as LLMs will frequently make citations up, but it is still sometimes useful. The fact that I have to verify every citation makes this not terribly useful, though.\nI typically use AI in ways that induces extra friction between the AI generating process and my own work, which forces me to review it before inserting it into my document or code. Typically, this means I ask ChatGPT or Claude for things directly in the chatbot interface, and don’t go much into using tools that interface directly with my documetns or scripts (like Microsoft/Github Copilot).\n\nNow, this isn’t to say that my way is the only ethical way to use AI. (I think many people use Github Copilot in perfectly responsible ways, for instance.) But it is the way that I have found it most useful to use ChatGPT that strikes a balance between utility and awareness.\nNote a continued common feature here: LLMs are things I use as tools to enhance my own productivity, not as minds to replace my own.13 Despite the hype and publicity of certain AI companies and their founders, there are a number of good reasons to doubt that LLMs are anywhere near human level intelligence (or AGI, as many like to refer to it). There are even lots of good reasons to believe the entire concept of “reaching human intelligence” is fundamentally flawed - beliefs held by a number of cognitive scientists, psychologists, computer scientists, and philosophers with far more expertise in minds, brains, logic, and programming than you or me.\nAnother way to think of it: Steve Jobs, founder of Apple, had a favorite metahpor he liked to use when selling the virtues of computers: a computer, he claimed, is a bicycle for the mind. The advent of technical progress means that your ChatGPT-equipped Apple laptop may be more like an automobile (or even a rocket) for your mind, rather than a bicycle, but the parallel is still apt: neither the bicyle nor the automobile replaces your own mind; it merely augments it."
   },
   {
-    "objectID": "assignments/assign12.html",
-    "href": "assignments/assign12.html",
-    "title": "Assignment 12",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 12"
-    ]
+    "objectID": "ai.html#bringing-it-back-around-ai-in-class",
+    "href": "ai.html#bringing-it-back-around-ai-in-class",
+    "title": "Artificial Intelligence & LLMs",
+    "section": "Bringing it Back Around: AI in Class",
+    "text": "Bringing it Back Around: AI in Class\nI am neither an AI skeptic nor an AI propagandizer. AI, I think – and LLMs in particular, as the current dominant instantiation of AI – is just the next technological jump forward. Whether it turns into a giant leap or a fumbling stumble, I think, is yet to be seen.14\nThat said, I also believe that, even in courses that are not directly about AI, one of my jobs as an educator is to help students learn how to use AI effectively. I don’t ban the use of AI in my class – except in ways that violate common decency, the law, or other educational or professional obligations – and even tacitly encourage it in some circumstances.\nI would, however, strongly encourage you to be skeptical and not overuse AI as you learn. I would also encourage you to not make the mistake of confusing assessement with learning.15 Assessment is an obligation of your professor to measure out how well you know class material, but assessment is not the end goal of education any more than taking your blood pressure is the end goal of going to a physician’s office. The goal of education is learning. Don’t mistake the means for the end: I don’t care about assessing what ChatGPT “thinks” about something any more than your physician cares about what ChatGPT’s blood pressure is.\n\n\n\n\n\n\nNonePoor Uses of AI\n\n\n\nAs an aside, poor uses of AI are often easily detectable to the eye of your professor. Good, and effective, AI usage often has the property of being largely undetectable, even to a trained eye – that’s what makes it effective use of the tool, actually! But bad usage is often so obvious as to be painful. Some examples:\n\nStudents who turn in papers and problem sets that reference methodological tools or techniques way beyond the understanding of the material they show in person or in in-class tests and assignments. (I’ve seen many students propose using methods that would only come to them in their third or fourth semester of statistics in an introductory research methods class, for instance.)\nStudents who authoritatively reference scholars who don’t exist, or authoritatively reference scholars that exist but articles or books that those scholars never wrote.\nStudents who turn in assignments that match the style of documents that are well represented in the training set of an LLM (like a five paragraph essay, for instance) but do so for an assignment where the directions were clearly for something else (like, say, a Socratic dialogue.)\n\nIf you do such things in your work, you will find me take points off not necessarily because you used AI - which is typically allowed - but because you’ve made a poor use of AI, and the work doesn’t meet the standards of the class.\n\n\nFinally, my job, goal, and interest in this class is to help you, my human student, learn how to valuable things like write code; wrangle and visualize data; critically interpret information; and learn how to be a more effective citizen and human engaging in data analysis, management, and policy study. My interest is not in correcting AI slop,16 nor does my interest lie in trying to figure out if you are attempting to pass AI slop17 off as your own work. Accordingly, I will generally just not spend time trying to guess if your assignments are AI generated, nor will I typically engage with technology that purports to do this for me.18"
   },
   {
-    "objectID": "assignments/assign6.html",
-    "href": "assignments/assign6.html",
-    "title": "Assignment 6",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 6"
-    ]
+    "objectID": "ai.html#further-resources-and-references",
+    "href": "ai.html#further-resources-and-references",
+    "title": "Artificial Intelligence & LLMs",
+    "section": "Further Resources and References",
+    "text": "Further Resources and References\nIf you’ve read this far, first: well done! I both appreciate and applaud your interest. Second, you might be interested in some further readings and resources on AI, its use, its societal implications, and how we might think about public and private policy surrounding AI. The first place I might point you to is to courses available to you at Maxwell and Syracuse, more broadly: I teach a course in AI Policy, Professor Himmelreich teaches a class on Data Ethics, and Professor Zhang teaches a class on AI Governance and Politics. There are also a broader set of other AI-related things happening at Syracuse, including events through the Autonomous Systems Policy Institute (ASPI), resources organized by ITS, and many more.\nA few other things I’d recommend:\n\nMelanie Mitchell, professor at the Santa Fe Institute and one of the most nuanced thinkers about AI I know, has a series of articles that are well worth reading as well as an excellent podcast she hosted on AI. She also was interviewed in one of my favorite blog post titles ever, “How Your Cheese-Powered Baby Trounces AI”.\nAndrew Heiss, a professor in public management and policy at Georgia State’s Andrew Young School, has a similar digression on AI and education that’s worth looking through, including the sources and footnotes. (You’ll note some resemblance between his and my takes.)\nGary Marcus’ substack is generally very AI-critical, but a good place to keep up on current AI trends and hype. Luiza Jarovsky’s substack is a good place to read about AI governance.\nIf you’re more interested in the business and tech industry sides of AI, Benjamin Evans and Ben Thompson are worth adding to your bookmarks-slash-RSS reader-slash-email inbox-slash-future mechanism for keeping track of internet news that hasn’t yet been invented.\n\nFinally, as I’m always eager to know how far students actually read syllabi: if you at this point, and still reading about AI and my thoughts on it, send me an email with a recommendation for your favorite artificial intelligence related novel, movie, or TV-show. I’ll give you a bonus point on your next test for your perserverance and diligence."
   },
   {
-    "objectID": "assignments/assign5.html",
-    "href": "assignments/assign5.html",
-    "title": "Assignment 5",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 5"
-    ]
-  },
-  {
-    "objectID": "assignments/assign7.html",
-    "href": "assignments/assign7.html",
-    "title": "Assignment 7",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 7"
-    ]
-  },
-  {
-    "objectID": "assignments/prac1.html",
-    "href": "assignments/prac1.html",
-    "title": "Practicum 1",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Practica",
-      "Practicum 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "Instructions\nAnswer all questions. Please upload your assignment to Blackboard as a PDF.\n\n\n\nQuestions\n\nWhat is your name and program of study at Syracuse?\n(Optional: provide your pronouns, if you wish.)\nWhat is your prior experience with statistics and data analysis?\nWhat are you hoping to get out of this class?\nPlease include a picture of yourself!\n\nIt can be anything – just make sure that you are the only person in the picture so I can clearly identify you.",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign3.html",
-    "href": "assignments/assign3.html",
-    "title": "Assignment 3",
-    "section": "",
-    "text": "Instructions\nFor this assignment, you must turn in two documents:\n1. Your answers (as a PDF), and\n2. A plain-text .do file containing the Stata code you used to arrive at your answers.\nPlease consider the data in the following table. You may also find this data as a .dta file on the course Blackboard page.\n\n\nDataset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlayer\nG\nMP\nFG\nFGA\n3P\n3PA\nTRB\nAST\nSTL\nBLK\nTOV\nPF\nPTS\n\n\n\n\nCarmelo Anthony\n35\n1274\n277\n612\n56\n166\n349\n77\n55\n30\n77\n77\n778\n\n\nHakim Warrick\n35\n1146\n197\n364\n0\n1\n297\n57\n49\n44\n92\n94\n518\n\n\nGerry McNamara\n35\n1236\n146\n364\n85\n238\n80\n155\n77\n2\n85\n69\n467\n\n\nKueth Duany\n35\n944\n133\n303\n43\n123\n128\n71\n36\n17\n57\n75\n386\n\n\nBilly Edelin\n23\n533\n80\n146\n0\n2\n78\n58\n24\n2\n53\n22\n208\n\n\nJosh Pace\n32\n469\n62\n118\n0\n2\n86\n60\n26\n8\n37\n33\n138\n\n\nCraig Forth\n35\n618\n56\n115\n0\n1\n116\n30\n15\n41\n39\n90\n132\n\n\nJeremy McNeil\n35\n657\n54\n81\n0\n0\n146\n8\n9\n100\n36\n112\n117\n\n\nMatt Gorman\n9\n76\n8\n23\n0\n1\n19\n1\n3\n2\n5\n14\n21\n\n\nAndrew Kouwe\n6\n10\n3\n5\n2\n2\n2\n2\n0\n0\n1\n2\n10\n\n\nRonneil Herron\n5\n9\n2\n3\n0\n0\n5\n0\n0\n0\n1\n0\n6\n\n\nXzavier Gaines\n6\n21\n1\n8\n0\n3\n2\n1\n1\n0\n2\n0\n2\n\n\nGary Hall\n5\n6\n1\n1\n0\n0\n2\n2\n1\n1\n0\n0\n2\n\n\nTyrone Albright\n7\n20\n0\n2\n0\n1\n2\n1\n2\n0\n3\n1\n0\n\n\nJosh Brooks\n5\n6\n0\n1\n0\n0\n1\n0\n0\n0\n0\n1\n0\n\n\n\nVariable definitions:\n\nG = Games Played\n\nMP = Minutes Played\n\nFG = Field Goals Made\n\nFGA = Field Goals Attempted\n\n3P = Three Point Field Goals Made\n\n3PA = Three Point Field Goals Attempted\n\nTRB = Total Rebounds\n\nAST = Assists\n\nSTL = Steals\n\nBLK = Blocks\n\nTOV = Turnovers\n\nPF = Personal Fouls\n\nPTS = Points Scored\n\n\n\n\nQuestions\n\nWhat is the unit of analysis (the cases) in this table?\nIdentify the level of measurement of each variable.\nWhat is the mean, median, and mode of the “games played” variable in this data?\nDo you think the mean, median, or mode is the best estimate of central tendency for games played? Why?\nMany analysts like to create a statistic called “Stocks,” which is the sum of steals and blocks by a player. Create this variable as STK. Who had the most stocks on the team?\nCalculate each player’s field goal percentage and three point field goal percentage, storing each in new variables FGP and TPP. Who led the team in field goal percentage and three point percentage?\nTransform the variable PTS, generating a new variable PPG (average points scored per game played). How many points per game did Carmelo Anthony, Gerry McNamara, Josh Pace, and Jeremy McNeil average? Who led the team in points per game?\nDo the same for 3P, TRB, AST, STL, BLK, and TOV. Who led the Orange in each statistical category per game?\nTransform PTS again to generate PPM (points per minute played). Who led the Orange in points per minute?\nCreate a scatterplot with points per minute (PPM) on the Y axis and minutes played (MP) on the X axis. Add a best-fit line. What is the relationship between points per minute and minutes played?",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 3"
-    ]
-  },
-  {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "Introduction to Statistics",
-    "section": "",
-    "text": "Blackboard: link\n Course Drive: onedrive link\n Syllabus & Materials: right here"
-  },
-  {
-    "objectID": "overview.html#class",
-    "href": "overview.html#class",
-    "title": "Introduction to Statistics",
-    "section": "Class",
-    "text": "Class\n Location: Eggers Hall 113 \n Time: Tuesday and Thursday, 9:30 AM - 10:50 AM"
-  },
-  {
-    "objectID": "overview.html#instructor",
-    "href": "overview.html#instructor",
-    "title": "Introduction to Statistics",
-    "section": "Instructor",
-    "text": "Instructor\nProfessor Jack Reilly\nOffice: Eggers 225F\nOffice Hours: Tuesday and Thursday, 11 AM - Noon (drop in) and by appointment.1\nZoom Hours: Friday, 1-3 (schedule online)\nPhone: 315-443-2687 (office)\ne-mail: jlreilly@syr.edu"
-  },
-  {
-    "objectID": "overview.html#description",
-    "href": "overview.html#description",
-    "title": "Introduction to Statistics",
-    "section": "Description",
-    "text": "Description\nPublic policy and administration decisions are often difficult and risky because decisions must be made with incomplete and imperfect information. The primary purpose of this course is to introduce the basics of modeling and analyzing problems that involve decision-making under uncertainty. A high priority will be placed on learning how to choose the appropriate statistics to examine a particular problem, and how to avoid being misled by statistics presented by others that do not appropriately reflect available information."
-  },
-  {
-    "objectID": "overview.html#objectives",
-    "href": "overview.html#objectives",
-    "title": "Introduction to Statistics",
-    "section": "Objectives",
-    "text": "Objectives\nStudents will learn how to use quantitative data and statistical tools to understand problems, how to become smart consumers of statistical reports and quantitative information, and how to communicate statistical findings to a variety of audiences."
-  },
-  {
-    "objectID": "overview.html#prerequisites",
-    "href": "overview.html#prerequisites",
-    "title": "Introduction to Statistics",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nA thorough understanding of high school algebra and geometry."
-  },
-  {
-    "objectID": "overview.html#books",
-    "href": "overview.html#books",
-    "title": "Introduction to Statistics",
-    "section": "Books",
-    "text": "Books\nRequired: You will need a core statistics textbook for the class, and there are a few options:\n\nClassic Statistics: Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nFor Public Admin: Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nWeb Option: Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)\n\nYou may find one of these books suits you better than the other. (I recommend trying each!) Each book has a slightly different focus. Favero is more focused on a math-light presentation, preferring conceptual explanations, but is light in detail (especially in probability). Moore et al. is a more traditional statistics book (although still applied). Meier et al. is very clearly targeted at Public Administration, but the content itself jumps around a bit relative to the order our presentation of material. If you have strong opinions about any book at the end of the semester, let me know!\nRecommended: A resource to assist you with Stata usage and coding.\n\nTraditional: Acock, Alan. Stata: A Gentle Introduction. Stata Press. Any edition 4th or newer is sufficient.\nWeb Resources: UCLA Statistical Methods and Data Analytics Stata Learning Modules: https://stats.oarc.ucla.edu/stata/modules/"
-  },
-  {
-    "objectID": "overview.html#software",
-    "href": "overview.html#software",
-    "title": "Introduction to Statistics",
-    "section": "Software",
-    "text": "Software\nStata (any version after 13; the most basic is fine). You can also purchase a student license, which is available for 6- or 12-month intervals, or perpetually. See the Stata website for pricing: https://www.stata.com/order/new/edu/profplus/student-pricing/. If you will be taking PAI 722 in the Spring, I recommend a 12-month license ($94). Otherwise, a 6-month subscription is also available ($48). For those of you who do not wish to purchase your own version, copies are located on the computers in the student clusters in the basement of Eggers. You can also access Stata via Syracuse’s remote desktop: http://rds.syr.edu. Information on how to log in to the remote desktop is available here."
-  },
-  {
-    "objectID": "overview.html#hardware",
-    "href": "overview.html#hardware",
-    "title": "Introduction to Statistics",
-    "section": "Hardware",
-    "text": "Hardware\nThe department will provide a simple scientific calculator on exams for you to use. Graphing calculators are not allowed in exams.\nYou will need to use a computer to complete assignments in this class. If you do not have one of your own, you may use one on campus. The student clusters in the basement of Eggers are likely the most convenient."
-  },
-  {
-    "objectID": "overview.html#online-class-resources",
-    "href": "overview.html#online-class-resources",
-    "title": "Introduction to Statistics",
-    "section": "Online Class Resources",
-    "text": "Online Class Resources\nThis website hosts the official course syllabus as well as course assignments, problems, and readings. In addition, Blackboard is Syracuse University’s course platform. In it, you will find occaisional course announcements, a submission portal for your assignments, and additional materials. In addition, during the semester, solutions to the problem sets and lecture slides will be posted.\nPlease note, however, that this is primarily an in-person, not online, class, and as such, class is the primary source of course-related announcements and material."
-  },
-  {
-    "objectID": "overview.html#overview",
-    "href": "overview.html#overview",
-    "title": "Introduction to Statistics",
-    "section": "Overview",
-    "text": "Overview\nSatisfactory completion of the course requires completion of the following:\n\nRegular course participation and attendance (10%)\nWeekly Assignments (20%)\nPracticum 1 (15%)\nMidterm (20%)\nPracticum 2 (15%)\nFinal (20%)"
-  },
-  {
-    "objectID": "overview.html#attendance",
-    "href": "overview.html#attendance",
-    "title": "Introduction to Statistics",
-    "section": "Attendance",
-    "text": "Attendance\nOne of the guiding principles of my class is that you are adults, and thus, capable of managing your own time. I have little interest in policing your lives. Attendance is kept for each day of class, but you will lose no points on attendance if you miss a couple days: everyone has things that occasionally come up in life that need to be dealt with, and I fully realize that some of those things are things you — very understandably — may not want to discuss with your professor. That’s OK!\nThat said, attendance in class is an important element to doing well in the course. If you miss more than a couple days, it’s advisable to check in. (That way, I also won’t mark your attendance grade off for chronic absenteeism.) The easiest way to do this is just email me with a brief reason when something comes up and you have to miss class (which will also allow me to tell you if you’re missing anything particularly important).\nIf you must miss class, the way to make up what you’ve missed is straightforward: make sure to look over the posted slides, do the reading for the day, get notes from a friend, and still complete the assignment if you are able (or, if it is a day we are going over the assignment, make sure to look over the assignment solutions). If you do these things and still feel like you’re missing something, please feel free to come into my office hours and we can talk it through.\n\n\n\n\n\n\nParticipation\n\n\n\nThere is no formal grade for “participation”. However, I reserve the right to dock a couple points here if you do ridiculous/unprofessional things in class (like answering your cell phone, always coming in late and regularly distracting others, spontaneously breaking out into ribald song in the middle of class, etc)."
-  },
-  {
-    "objectID": "overview.html#weekly-assignments",
-    "href": "overview.html#weekly-assignments",
-    "title": "Introduction to Statistics",
-    "section": "Weekly Assignments",
-    "text": "Weekly Assignments\nThere is an assignment each week in class, due Friday at midnight.2 Assignments will vary in nature: some will be one-off problem sets, some may build on problem sets from a prior week. All material needed for an assignment will be covered by the Tuesday before the assignment is due, and the assignment itself will be posted no later than Tuesday of the week in question. There is no penalty for turning in an assignment up until the Tuesday of the following week. However, no assignment work is accepted after class Tuesday of the following week, as we will go over answers for assignments together in class. There will typically be no assignments on weeks when other significant work (practicums, tests) are due, and students may miss up to two assignments without penalty. Students may also work together on assignments, although each student is ultimately responsible for their own work.\n\n\n\n\n\n\nAssignment Evaluation\n\n\n\nAssignments are evaluated based upon effort and a check completion system. Students who answer every problem will earn a check, with each check worth one point toward their final assignment grade.\n\n\n\n\n\n\n\n\nComputing\n\n\n\nMost homework assignments will be done on a computer using Stata. Do not simply hand in output from Stata. Instead, paste the relevant results into a word processor adding text to explain these results. You must also hand in reproducible script (.do) files with your analysis. (Don’t worry, we’ll cover what this means.)"
-  },
-  {
-    "objectID": "overview.html#practicums",
-    "href": "overview.html#practicums",
-    "title": "Introduction to Statistics",
-    "section": "Practicums",
-    "text": "Practicums\nThe practicums are, essentially, large assignments that are worth more and graded on a scale.3 They are untimed, take-home, cumulative, and will be completed on your own time (and computer). Unlike the weekly assignments, you are also not allowed to work together on them. Their timing corresponds (roughly) with the midterm and final - you may wish to think of them as the “take-home” midterm and “take-home” final, if you prefer."
-  },
-  {
-    "objectID": "overview.html#midterm-and-final",
-    "href": "overview.html#midterm-and-final",
-    "title": "Introduction to Statistics",
-    "section": "Midterm and Final",
-    "text": "Midterm and Final\nThe midterm and final are traditional timed exams given in class on pen and paper. No computer will be available to you, although you will have access to a calculator. Both exams are cumulative across the course."
-  },
-  {
-    "objectID": "overview.html#etiquette-decorum",
-    "href": "overview.html#etiquette-decorum",
-    "title": "Introduction to Statistics",
-    "section": "Etiquette & Decorum",
-    "text": "Etiquette & Decorum\nThis is a graduate course: I take it for granted that you have a basic interest in the material, an enthusiastic attitude toward participation, and a respectful attitude to everyone in the room. A university classroom is fundamentally a learning community: be courteous to fellow students and the professor, don’t let yourself be distracted by your cell phone in class, and don’t let what is on your computer screen distract fellow students in the class, either."
-  },
-  {
-    "objectID": "overview.html#office-consultation-hours-appointments",
-    "href": "overview.html#office-consultation-hours-appointments",
-    "title": "Introduction to Statistics",
-    "section": "Office & Consultation Hours, Appointments",
-    "text": "Office & Consultation Hours, Appointments\nI encourage you to chat with me at any point if you have questions about the course. You can schedule a meeting with me by going to my website here: http://jacklreilly.github.io/ and sign up for time at your convenience. You can also always just drop in during my regularly scheduled drop-in office hours without appointment, or stop by to see if my door is open: if it’s open, come on in. (Don’t feel like you’re intruding! I’ll tell you if it’s not a good time.)"
-  },
-  {
-    "objectID": "overview.html#e-mail",
-    "href": "overview.html#e-mail",
-    "title": "Introduction to Statistics",
-    "section": "E-mail",
-    "text": "E-mail\nEmail is the best way to contact me. I’m usually pretty responsive, but as a baseline, I always aim to get back to you in a modified 24-hour fashion: by the end of the business day the day after you email. So if you email me at 2 PM Tuesday, I’ll get back to you by 6 PM Wednesday; if 10 PM Thursday, by 6 PM Friday; if you email me at 3 PM on Friday, by 6 PM Monday, etc.4\n\n\n\n\n\n\nNote\n\n\n\nIf your email requires a long response, expect me to encourage you to schedule an appointment with me so that we can more effectively discuss your questions."
-  },
-  {
-    "objectID": "overview.html#footnotes",
-    "href": "overview.html#footnotes",
-    "title": "Introduction to Statistics",
+    "objectID": "ai.html#footnotes",
+    "href": "ai.html#footnotes",
+    "title": "Artificial Intelligence & LLMs",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nIn addition to formal office hours, I have an open door policy - feel free to stop by if you see the door open. I’ll also be around after office hours until at least 12:30 each Tuesday and Thursday according to student need. I also am usually around between 3:30 and 4 Tuesdays and Thursdays and free to meet, but give me a heads up if you plan on coming around at that time so I know to be on the lookout for you - I’m sometimes in another room with another class.↩︎\nAlthough, I should note, I very much hope you aren’t working on my assignments on Friday at 11 PM! I suggest you work on assignments starting on Tuesday of the week in question and finish them early enough so your Friday afternoon and evening isn’t overcome with them.↩︎\nWhile regular weekly assignments are check/no-check credit, on practicums, you’ll receive a certain number of points out of the total.↩︎\nAgain: usually I’m much faster! But if you don’t hear from me by this baseline, feel free to bump a reminder.↩︎"
+    "text": "Footnotes\n\n\nSo many thoughts, in fact, that I teach a whole class on AI Policy! Come take it with me in the spring if you’re interested.↩︎\nI for instance, used AI tools to help me build this website, and I would guess that I was able to do it at least twice as quickly as I would have been able to without AI.↩︎\nGenerally speaking, at least. If you’re paying attention to some of the details with AI, you know about something called an LRM - or Large Reasoning Model. To a first approximation, they try to introduce better and more complex reasoning into the base prediction process, sometimes going so far to do things like generate python code to do math analysis. These “reasoning” models, however, still often fall short on relatively simple reasoning tasks (see Apple, 2025, The Illusion of Thinking).↩︎\nFrankfurt, 2005, On Bullshit; Hicks, Humphries, and Slater, 2024, ChatGPT is Bullshit. For those interested in a full taxonomy, Frankfurt helpfully helps us distinguish between bullshit and any number of additional different not-quite-truthisms, including humbug, hot air, bluff, bravado, and lying.↩︎\nFor another excellent example of profanity being elegantly used to make forceful points in academic settings, see Healy, 2017, “Fuck Nuance”, which genuinely contains very good advice on writing. (Although to be fair, you can also get most of the point of that article just from the title . . . which is also the point.)↩︎\nSee, for instance, Lehmann, Cornelius, and Sting, 2024↩︎\nInsert proper “value of doing the tough work” metaphor here: eating your vegetables, walking uphill both ways to school in a snowstorm, learning to program in assembly before C, etc.↩︎\nYou never really know what you’re over the hill, after all. But you do feel it coming sooner every day.↩︎\nFor 99.9% of economically relevant labor, our ultimate goal remains to work with and for other humans and human society, after all.↩︎\nMany publications, for instance, have explict and clear instructions that prevent you from cheekily listing ChatGPT or Claude as a coauthor, in fact - even if they allow for the use of ChatGPT in the production of the manuscript. See, for instance, this discussion in regards to journals published by Springer-Nature.↩︎\nA good parallel here is Microsoft Office: if you write some nonsensible hot garbage in Word, Microsoft is never going to take responsiblity for any of that business. They’ll (correctly) note that it was just some dumb human that wrote it using their tool.↩︎\nAgain, an academic reference!↩︎\nAnother way to think about it: ChatGPT never writes a paragraph for me, but it does occasionally help me find the right word I’m looking for (like a dictionary) or identify the right way to use particular commands in code (like stackoverflow).↩︎\nFor the record, my money would be somewhere much more than “fumbling stumble” but not quite “giant leap” - perhaps “two steps forward and one step back”? Either way, however, I don’t think much is gained from preventing students from using AI. It’s just the next tool in the chain, and it’s not like you see people walking around all day using a slide rule or abacus. Technology marches on in fits and starts regardless.↩︎\nAn all too common mistake made today by many people, for the record.↩︎\nAn arduous, unending, and unenviable task, like Sisyphus with his rock.↩︎\nAI slop: also known as, well, you know.↩︎\nThe technical tools that try to detect LLM writing are imperfect, anyways, resulting in a lot of uncertainty and false positives. Furthermore, experience has taught me that typically, poor used and generated LLM content will often earn poor marks, regardless, and have some pretty clear “tells”. This means I don’t have to care too much if you produce bad work with AI or bad work without AI: it’s just bad work. And your learning, in the final anlaysis, really is up to you. If you want to cut corners and use AI irresponsibly, there’s nothing I can do to stop you. (It’s really just future you that you’re hurting, anyways.) If you want to use LLMs responsibly successfully, well: great! That’s probably the way of the future, anyways, and I hope that this document, along with other elements of my and others’ classes, help you learn how to do so successfully.↩︎"
   },
   {
     "objectID": "syllabus.html",
@@ -422,14 +470,14 @@
     "href": "syllabus.html#attendance",
     "title": "PAI 721: Introduction to Statistics",
     "section": "Attendance",
-    "text": "Attendance\nOne of the guiding principles of my class is that you are adults, and thus, capable of managing your own time. I have little interest in policing your lives. Attendance is kept for each day of class, but you will lose no points on attendance if you miss a couple days: everyone has things that occasionally come up in life that need to be dealt with, and I fully realize that some of those things are things you — very understandably — may not want to discuss with your professor. That’s OK!\nThat said, attendance in class is an important element to doing well in the course. If you miss more than a couple days, it’s advisable to check in. (That way, I also won’t mark your attendance grade off for chronic absenteeism.) The easiest way to do this is just email me with a brief reason when something comes up and you have to miss class (which will also allow me to tell you if you’re missing anything particularly important).\nIf you must miss class, the way to make up what you’ve missed is straightforward: make sure to look over the posted slides, do the reading for the day, get notes from a friend, and still complete the assignment if you are able (or, if it is a day we are going over the assignment, make sure to look over the assignment solutions). If you do these things and still feel like you’re missing something, please feel free to come into my office hours and we can talk it through.\n\n\n\n\n\n\nParticipation\n\n\n\nThere is no formal grade for “participation”. However, I reserve the right to dock a couple points here if you do ridiculous/unprofessional things in class (like answering your cell phone, always coming in late and regularly distracting others, spontaneously breaking out into ribald song in the middle of class, etc)."
+    "text": "Attendance\nOne of the guiding principles of my class is that you are adults, and thus, capable of managing your own time. I have little interest in policing your lives. Attendance is kept for each day of class, but you will lose no points on attendance if you miss a couple days: everyone has things that occasionally come up in life that need to be dealt with, and I fully realize that some of those things are things you — very understandably — may not want to discuss with your professor. That’s OK!\nThat said, attendance in class is an important element to doing well in the course. If you miss more than a couple days, it’s advisable to check in. (That way, I also won’t mark your attendance grade off for chronic absenteeism.) The easiest way to do this is just email me with a brief reason when something comes up and you have to miss class (which will also allow me to tell you if you’re missing anything particularly important).\nIf you must miss class, the way to make up what you’ve missed is straightforward: make sure to look over the posted slides, do the reading for the day, get notes from a friend, and still complete the assignment if you are able (or, if it is a day we are going over the assignment, make sure to look over the assignment solutions). If you do these things and still feel like you’re missing something, please feel free to come into my office hours and we can talk it through.\n\n\n\n\n\n\nNoteParticipation\n\n\n\nThere is no formal grade for “participation”. However, I reserve the right to dock a couple points here if you do ridiculous/unprofessional things in class (like answering your cell phone, always coming in late and regularly distracting others, spontaneously breaking out into ribald song in the middle of class, etc)."
   },
   {
     "objectID": "syllabus.html#weekly-assignments",
     "href": "syllabus.html#weekly-assignments",
     "title": "PAI 721: Introduction to Statistics",
     "section": "Weekly Assignments",
-    "text": "Weekly Assignments\nThere is an assignment each week in class, due Friday at midnight.2 Assignments will vary in nature: some will be one-off problem sets, some may build on problem sets from a prior week. All material needed for an assignment will be covered by the Tuesday before the assignment is due, and the assignment itself will be posted no later than Tuesday of the week in question. There is no penalty for turning in an assignment up until the Tuesday of the following week. However, no assignment work is accepted after class Tuesday of the following week, as we will go over answers for assignments together in class. There will typically be no assignments on weeks when other significant work (practicums, tests) are due, and students may miss up to two assignments without penalty. Students may also work together on assignments, although each student is ultimately responsible for their own work.\n\n\n\n\n\n\nAssignment Evaluation\n\n\n\nAssignments are evaluated based upon effort and a check completion system. Students who answer every problem will earn a check, with each check worth one point toward their final assignment grade.\n\n\n\n\n\n\n\n\nComputing\n\n\n\nMost homework assignments will be done on a computer using Stata. Do not simply hand in output from Stata. Instead, paste the relevant results into a word processor adding text to explain these results. You must also hand in reproducible script (.do) files with your analysis. (Don’t worry, we’ll cover what this means.)"
+    "text": "Weekly Assignments\nThere is an assignment each week in class, due Friday at midnight.2 Assignments will vary in nature: some will be one-off problem sets, some may build on problem sets from a prior week. All material needed for an assignment will be covered by the Tuesday before the assignment is due, and the assignment itself will be posted no later than Tuesday of the week in question. There is no penalty for turning in an assignment up until the Tuesday of the following week. However, no assignment work is accepted after class Tuesday of the following week, as we will go over answers for assignments together in class. There will typically be no assignments on weeks when other significant work (practicums, tests) are due, and students may miss up to two assignments without penalty. Students may also work together on assignments, although each student is ultimately responsible for their own work.\n\n\n\n\n\n\nNoteAssignment Evaluation\n\n\n\nAssignments are evaluated based upon effort and a check completion system. Students who answer every problem will earn a check, with each check worth one point toward their final assignment grade.\n\n\n\n\n\n\n\n\nWarningComputing\n\n\n\nMost homework assignments will be done on a computer using Stata. Do not simply hand in output from Stata. Instead, paste the relevant results into a word processor adding text to explain these results. You must also hand in reproducible script (.do) files with your analysis. (Don’t worry, we’ll cover what this means.)"
   },
   {
     "objectID": "syllabus.html#practicums",
@@ -471,7 +519,7 @@
     "href": "syllabus.html#schedule",
     "title": "PAI 721: Introduction to Statistics",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\n\n\nUnit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 16)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam\n\n\n\n\n\n\n*️ If time allows.\n\n\n\n\n\n\nBook Abbreviations\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)"
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\n\nUnit\nTopic\nSTA\nPNA\nMtM\n\n\n\n\nI\nDescriptive statistics\n1.2; 1.3; 1.4\n1, 4, 5, 6\n1, 2\n\n\nII\nStatistical relationships\n2.1–2.7\n14, 15\n3\n\n\nIII\nProducing data\n3.1–3.4\n2, 3\n4\n\n\nIV\nProbability\n4.1–4.5\n7, 8\n5\n\n\n\nMidterm Exam (Thu Oct 16, in class)\n\n\n\n\n\nV\nSampling distributions\n5.1–5.3\n7,8\n6\n\n\nVI\nInference\n6.1–6.4\n10\n7\n\n\nVII\nInference for distributions\n7.1–7.2\n11\n8, 9\n\n\nVIII\nSimple linear regression\n10.1\n17\n10\n\n\nIX*\nLess simple regression\n11.1–11.2\n20\n11, 12\n\n\n\nFinal Exam: December 11, 9 AM - 12 Noon, Eggers 060 \n\n\n\n\n\n\n*️ If time allows.\n\n\n\n\n\n\nTipBook Abbreviations\n\n\n\nYou can use any book you wish (although I encourage you to make sure its style suits you):\n\nSTA Moore, David S., George P. McCabe, Bruce A. Craig. Introduction to the Practice of Statistics. W.H. Freeman and Company. Any edition 6th or newer is sufficient.\nPNA Meier, Kenneth, Jeffery Brudney, and John Bohte. Applied Statistics for Public and Nonprofit Administration. Cengage. Any recent edition is fine\nMtM Favero, Nathan. Statistics Minus the Math: An Introduction for Social Sciences (https://minusthemath.com)"
   },
   {
     "objectID": "syllabus.html#a-word-on-reading",
@@ -565,15 +613,15 @@
     "text": "Footnotes\n\n\nIn addition to formal office hours, I have an open door policy - feel free to stop by if you see the door open. I’ll also be around after office hours until at least 12:30 each Tuesday and Thursday according to student need. I also am usually around between 3:30 and 4 Tuesdays and Thursdays and free to meet, but give me a heads up if you plan on coming around at that time so I know to be on the lookout for you - I’m sometimes in another room with another class.↩︎\nAlthough, I should note, I very much hope you aren’t working on my assignments on Friday at 11 PM! I suggest you work on assignments starting on Tuesday of the week in question and finish them early enough so your Friday afternoon and evening isn’t overcome with them.↩︎\nWhile regular weekly assignments are check/no-check credit, on practicums, you’ll receive a certain number of points out of the total.↩︎\nAgain: usually I’m much faster! But if you don’t hear from me by this baseline, feel free to bump a reminder.↩︎"
   },
   {
-    "objectID": "assignments/assign8.html",
-    "href": "assignments/assign8.html",
-    "title": "Assignment 8",
+    "objectID": "assignments/prac2.html",
+    "href": "assignments/prac2.html",
+    "title": "Practicum 2",
     "section": "",
     "text": "Nothing to see here (yet)",
     "crumbs": [
       "📚 Overview",
-      "Assignments",
-      "Assignment 8"
+      "Practica",
+      "Practicum 2"
     ]
   },
   {
@@ -589,57 +637,15 @@
     ]
   },
   {
-    "objectID": "assignments/assign9.html",
-    "href": "assignments/assign9.html",
-    "title": "Assignment 9",
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
     "section": "",
-    "text": "Nothing to see here (yet)",
+    "text": "Instructions\nAnswer all questions. Please upload your assignment to Blackboard as a PDF.\n\n\n\nQuestions\n\nWhat is your name and program of study at Syracuse?\n(Optional: provide your pronouns, if you wish.)\nWhat is your prior experience with statistics and data analysis?\nWhat are you hoping to get out of this class?\nPlease include a picture of yourself!\n\nIt can be anything – just make sure that you are the only person in the picture so I can clearly identify you.",
     "crumbs": [
       "📚 Overview",
       "Assignments",
-      "Assignment 9"
-    ]
-  },
-  {
-    "objectID": "assignments/assign13.html",
-    "href": "assignments/assign13.html",
-    "title": "Assignment 13",
-    "section": "",
-    "text": "Nothing to see here (yet)"
-  },
-  {
-    "objectID": "assignments/assign10.html",
-    "href": "assignments/assign10.html",
-    "title": "Assignment 10",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments",
-      "Assignment 10"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "📝 Assignments",
-    "section": "",
-    "text": "Hello and welcome to the assignments page for our course. All assignments are posted here.\nNote that, while you can find assignments here, submission of assignments are in the course blackboard.",
-    "crumbs": [
-      "📚 Overview",
-      "Assignments"
-    ]
-  },
-  {
-    "objectID": "assignments/prac2.html",
-    "href": "assignments/prac2.html",
-    "title": "Practicum 2",
-    "section": "",
-    "text": "Nothing to see here (yet)",
-    "crumbs": [
-      "📚 Overview",
-      "Practica",
-      "Practicum 2"
+      "Assignment 1"
     ]
   },
   {
@@ -667,52 +673,46 @@
     ]
   },
   {
-    "objectID": "ai.html",
-    "href": "ai.html",
-    "title": "Artificial Intelligence & LLMs",
+    "objectID": "assignments/assign9.html",
+    "href": "assignments/assign9.html",
+    "title": "Assignment 9",
     "section": "",
-    "text": "You can find the formal AI policy for this course in the “Policies” section of the syllabus/website. This discussion is focused on helpiing you understand and use AI, not on policy."
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 9"
+    ]
   },
   {
-    "objectID": "ai.html#ai-and-learning",
-    "href": "ai.html#ai-and-learning",
-    "title": "Artificial Intelligence & LLMs",
-    "section": "AI and Learning",
-    "text": "AI and Learning\nI have a lot of thoughts about this.1\nArtificial intelligence – in particular, large language models (LLMs) like ChatGPT – are incredibly useful tools. To get the mundane observation out of the way: they are likely to radically change the way we all work over the next several years, just like a variety of other technologies before them (see: the internet, the smartphone, the personal computer, electricity, the steam engine, the printing press, etc.) AI already has a ton of valuable use cases, including in education, data analysis, and research, and the possibilites are only growing.2\nHowever, to make most effective use of AI, it’s also important to understand exactly what AI is. Current AI models are what is known as Large Language Models, or LLMs. An LLM, at its core, is a probabilistic model whose primary function is to produce the next token – usually a word – that is most likely to make sense, based upon some prompt. It does not care if this token represents truth, reality, or a functional line of code – it only cares if the next token seems to make sense. Frequently, what it produces will incidentally be true and/or functional. That is what makes it useful! Frequently, it will also produce nonsense (or what we formally know as a “hallucination”). LLMs have advised people to eat rocks, hold cheese on pizza with glue, failed to perform simple arithmetic with decimals, and made up wholly invented bibliographic references, statistical libraries, and analysis results.\nFurthermore, this incidental relationship to the real world is by design – it is inherent to the way LLMs work. They don’t verify what they say with base reality, they just spit out what sounds good to probabilistic algorithms.3\n\n\n\n\n\n\nA Very Academic Note\n\n\n\nLLMs are, in a formal sense, bullshit of the first order. And yes: “bullshit” here is a technical academic term, meaning “language produced without regard for truth.”4\n“The problem here isn’t that large language models hallucinate, lie, or misrepresent the world in some way. It’s that they are not designed to represent the world at all; instead, they are designed to convey convincing lines of text.” (Hicks, Humphries, and Slater, 2024)\nAnd yes, for those interested, the fact that this is from an academic research paper is what makes your normally proper and profanity-averse professor feel somewhat gleefully authorized to use the term “bullshit” in a syllabus.5 There is a more diplomatic and professional seeming word that some use for the profusion of misguided output of AI: slop, which most use to mean the profusion and explosion of low-quality AI material. In short, they mean a profusion of what Frankfurt so artfully frames as bullshit. But with such a pithy and expressive alternative available to us in the expressiveness of the English language, why limit ourselves to using the banal sounding “slop”?\n\n\nThis incidental relationship LLMs have with truth is also what makes relying on an LLM dangerous. You can’t reliably evaluate LLM outputs until you already know enough about a subject to judge good use of language from bad use of language. However, in the very beginning phases of learning how to write code, conduct data analysis, and interpret it, the problem is often that you don’t yet know enough about the subject to reliably evaluate the quality of AI outputs.\nFurthermore, using LLMs early on in your learning can hamper your ability to understand the fundamental conceptual elements of programming and statistics.6 Even more problematically, it is these concepts which, when will understood, will eventually enable your most effecive use of this new class of tools for statistical and data work! Accordingly, if you elect to use generative AI to help you with assignments, I strongly encourage you to use them intelligently, rather than carelessly. Use them to help you learn, not to replace your learning. Even if plugging an assignment prompt directly into ChatGPT gives you an immediate shortcut, it is likely put you at a long-term disadvantage, even when using AI, when compared to students that learned the old school way.7"
-  },
-  {
-    "objectID": "ai.html#using-ai-responsibly",
-    "href": "ai.html#using-ai-responsibly",
-    "title": "Artificial Intelligence & LLMs",
-    "section": "Using AI Responsibly",
-    "text": "Using AI Responsibly\nSo why am I waxing rhapsodic about the dangers of AI use? Is this simply a case of old man yells at cloud? Well, possibly.8 But not really. As we move forward with social life where everyone’s work is in collaboration with, or enhanced by, the use of varying kinds of technology and AI, one of the most critical elements for us to work on is not just how to use AI, but how to use AI responsibly, in a way that furthers our goals as policy analysts, academics, administrators, and communicators.9\nNow, this is not a class on how to use AI, nor on the ethical and responsible use of AI. (It’s a class on data.) But that doesn’t mean ethical and responsible use of AI is not important. There is little in ethics that is purely black and white, but that doesn’t mean that there aren’t some very clear guidelines one should use.\n\n\n\n\n\n\nResponsible AI\n\n\n\nWhenever you use AI tools for a project you attach your name to, you are still taking implicit responsiblity for that project, product, or document. This means that it is incumbent upon you to to the followup work necessary to validate, verify, and confirm that the language and work produced by the machine that works without regard for truth is accurate and functional. AI is not a coauthor,10 and I promise you that OpenAI, Google, Anthropic, Mistral, etc won’t take responsibility for whatever you produce with their tools - that’s on you.11\nJust like any other tool or source you use, all use of AI, in anything you turn in for this class, should be documented and identified in your work. If you used AI to help you write code, note you used AI to help you write code. If you use it to help you write analysis, not how you used it to help you write analysis.\n\n\n\n\n\n\n\n\nEffective AI use in Learning\n\n\n\nAny use of AI in learning environments should enhance, not take the place of, learning fundamental core concepts. Your goal in the class is to learn things important for your future career or for your general edification as a human and scholar; my goal is to do my level best to help you - not a machine - learn these things.\nIn other, more pithy words: don’t outsource the important process of your own learning critical thinking to the philosophical bullshit machine.12\n\n\nPhilosophical musings, however, can be difficult to wrap around practical usage. So, in case it is helpful, and in the interest of full disclosure, here are some of the ways that I use AI in my own work, along with some notes about the pitfalls and things I am careful about:\n\nI look up function calls or code syntax in programming languages I already understand well, and sometimes ask LLMs to write small code snippets for me. This is one of my more common use cases for AI professionally, and one that noticeably speeds things up for me - I can typically at a glance tell if some code I’m given is wonky, and can always validate and verify that the output of the code is what I expect. Note that I do not ask LLMs to write large chunk of code or whole programs for me, which would be more difficult for me to verify in a way that would leave me comfortable taking responsibility for the code.\nI regularly use AI to help me translate between different formats, programming languages, or coding schemes. Much of this syllabus, for instance, was first written in LaTeX, and later translated, with the help of ChatGPT, to quarto.\nI occasionally use agentic LLMs to try to find new literature on a topic. This is a fraught process, as LLMs will frequently make citations up, but it is still sometimes useful. The fact that I have to verify every citation makes this not terribly useful, though.\nI typically use AI in ways that induces extra friction between the AI generating process and my own work, which forces me to review it before inserting it into my document or code. Typically, this means I ask ChatGPT or Claude for things directly in the chatbot interface, and don’t go much into using tools that interface directly with my documetns or scripts (like Microsoft/Github Copilot).\n\nNow, this isn’t to say that my way is the only ethical way to use AI. (I think many people use Github Copilot in perfectly responsible ways, for instance.) But it is the way that I have found it most useful to use ChatGPT that strikes a balance between utility and awareness.\nNote a continued common feature here: LLMs are things I use as tools to enhance my own productivity, not as minds to replace my own.13 Despite the hype and publicity of certain AI companies and their founders, there are a number of good reasons to doubt that LLMs are anywhere near human level intelligence (or AGI, as many like to refer to it). There are even lots of good reasons to believe the entire concept of “reaching human intelligence” is fundamentally flawed - beliefs held by a number of cognitive scientists, psychologists, computer scientists, and philosophers with far more expertise in minds, brains, logic, and programming than you or me.\nAnother way to think of it: Steve Jobs, founder of Apple, had a favorite metahpor he liked to use when selling the virtues of computers: a computer, he claimed, is a bicycle for the mind. The advent of technical progress means that your ChatGPT-equipped Apple laptop may be more like an automobile (or even a rocket) for your mind, rather than a bicycle, but the parallel is still apt: neither the bicyle nor the automobile replaces your own mind; it merely augments it."
-  },
-  {
-    "objectID": "ai.html#bringing-it-back-around-ai-in-class",
-    "href": "ai.html#bringing-it-back-around-ai-in-class",
-    "title": "Artificial Intelligence & LLMs",
-    "section": "Bringing it Back Around: AI in Class",
-    "text": "Bringing it Back Around: AI in Class\nI am neither an AI skeptic nor an AI propagandizer. AI, I think – and LLMs in particular, as the current dominant instantiation of AI – is just the next technological jump forward. Whether it turns into a giant leap or a fumbling stumble, I think, is yet to be seen.14\nThat said, I also believe that, even in courses that are not directly about AI, one of my jobs as an educator is to help students learn how to use AI effectively. I don’t ban the use of AI in my class – except in ways that violate common decency, the law, or other educational or professional obligations – and even tacitly encourage it in some circumstances.\nI would, however, strongly encourage you to be skeptical and not overuse AI as you learn. I would also encourage you to not make the mistake of confusing assessement with learning.15 Assessment is an obligation of your professor to measure out how well you know class material, but assessment is not the end goal of education any more than taking your blood pressure is the end goal of going to a physician’s office. The goal of education is learning. Don’t mistake the means for the end: I don’t care about assessing what ChatGPT “thinks” about something any more than your physician cares about what ChatGPT’s blood pressure is.\n\n\n\n\n\n\nPoor Uses of AI\n\n\n\nAs an aside, poor uses of AI are often easily detectable to the eye of your professor. Good, and effective, AI usage often has the property of being largely undetectable, even to a trained eye – that’s what makes it effective use of the tool, actually! But bad usage is often so obvious as to be painful. Some examples:\n\nStudents who turn in papers and problem sets that reference methodological tools or techniques way beyond the understanding of the material they show in person or in in-class tests and assignments. (I’ve seen many students propose using methods that would only come to them in their third or fourth semester of statistics in an introductory research methods class, for instance.)\nStudents who authoritatively reference scholars who don’t exist, or authoritatively reference scholars that exist but articles or books that those scholars never wrote.\nStudents who turn in assignments that match the style of documents that are well represented in the training set of an LLM (like a five paragraph essay, for instance) but do so for an assignment where the directions were clearly for something else (like, say, a Socratic dialogue.)\n\nIf you do such things in your work, you will find me take points off not necessarily because you used AI - which is typically allowed - but because you’ve made a poor use of AI, and the work doesn’t meet the standards of the class.\n\n\nFinally, my job, goal, and interest in this class is to help you, my human student, learn how to valuable things like write code; wrangle and visualize data; critically interpret information; and learn how to be a more effective citizen and human engaging in data analysis, management, and policy study. My interest is not in correcting AI slop,16 nor does my interest lie in trying to figure out if you are attempting to pass AI slop17 off as your own work. Accordingly, I will generally just not spend time trying to guess if your assignments are AI generated, nor will I typically engage with technology that purports to do this for me.18"
-  },
-  {
-    "objectID": "ai.html#further-resources-and-references",
-    "href": "ai.html#further-resources-and-references",
-    "title": "Artificial Intelligence & LLMs",
-    "section": "Further Resources and References",
-    "text": "Further Resources and References\nIf you’ve read this far, first: well done! I both appreciate and applaud your interest. Second, you might be interested in some further readings and resources on AI, its use, its societal implications, and how we might think about public and private policy surrounding AI. The first place I might point you to is to courses available to you at Maxwell and Syracuse, more broadly: I teach a course in AI Policy, Professor Himmelreich teaches a class on Data Ethics, and Professor Zhang teaches a class on AI Governance and Politics. There are also a broader set of other AI-related things happening at Syracuse, including events through the Autonomous Systems Policy Institute (ASPI), resources organized by ITS, and many more.\nA few other things I’d recommend:\n\nMelanie Mitchell, professor at the Santa Fe Institute and one of the most nuanced thinkers about AI I know, has a series of articles that are well worth reading as well as an excellent podcast she hosted on AI. She also was interviewed in one of my favorite blog post titles ever, “How Your Cheese-Powered Baby Trounces AI”.\nAndrew Heiss, a professor in public management and policy at Georgia State’s Andrew Young School, has a similar digression on AI and education that’s worth looking through, including the sources and footnotes. (You’ll note some resemblance between his and my takes.)\nGary Marcus’ substack is generally very AI-critical, but a good place to keep up on current AI trends and hype. Luiza Jarovsky’s substack is a good place to read about AI governance.\nIf you’re more interested in the business and tech industry sides of AI, Benjamin Evans and Ben Thompson are worth adding to your bookmarks-slash-RSS reader-slash-email inbox-slash-future mechanism for keeping track of internet news that hasn’t yet been invented.\n\nFinally, as I’m always eager to know how far students actually read syllabi: if you at this point, and still reading about AI and my thoughts on it, send me an email with a recommendation for your favorite artificial intelligence related novel, movie, or TV-show. I’ll give you a bonus point on your next test for your perserverance and diligence."
-  },
-  {
-    "objectID": "ai.html#footnotes",
-    "href": "ai.html#footnotes",
-    "title": "Artificial Intelligence & LLMs",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSo many thoughts, in fact, that I teach a whole class on AI Policy! Come take it with me in the spring if you’re interested.↩︎\nI for instance, used AI tools to help me build this website, and I would guess that I was able to do it at least twice as quickly as I would have been able to without AI.↩︎\nGenerally speaking, at least. If you’re paying attention to some of the details with AI, you know about something called an LRM - or Large Reasoning Model. To a first approximation, they try to introduce better and more complex reasoning into the base prediction process, sometimes going so far to do things like generate python code to do math analysis. These “reasoning” models, however, still often fall short on relatively simple reasoning tasks (see Apple, 2025, The Illusion of Thinking).↩︎\nFrankfurt, 2005, On Bullshit; Hicks, Humphries, and Slater, 2024, ChatGPT is Bullshit. For those interested in a full taxonomy, Frankfurt helpfully helps us distinguish between bullshit and any number of additional different not-quite-truthisms, including humbug, hot air, bluff, bravado, and lying.↩︎\nFor another excellent example of profanity being elegantly used to make forceful points in academic settings, see Healy, 2017, “Fuck Nuance”, which genuinely contains very good advice on writing. (Although to be fair, you can also get most of the point of that article just from the title . . . which is also the point.)↩︎\nSee, for instance, Lehmann, Cornelius, and Sting, 2024↩︎\nInsert proper “value of doing the tough work” metaphor here: eating your vegetables, walking uphill both ways to school in a snowstorm, learning to program in assembly before C, etc.↩︎\nYou never really know what you’re over the hill, after all. But you do feel it coming sooner every day.↩︎\nFor 99.9% of economically relevant labor, our ultimate goal remains to work with and for other humans and human society, after all.↩︎\nMany publications, for instance, have explict and clear instructions that prevent you from cheekily listing ChatGPT or Claude as a coauthor, in fact - even if they allow for the use of ChatGPT in the production of the manuscript. See, for instance, this discussion in regards to journals published by Springer-Nature.↩︎\nA good parallel here is Microsoft Office: if you write some nonsensible hot garbage in Word, Microsoft is never going to take responsiblity for any of that business. They’ll (correctly) note that it was just some dumb human that wrote it using their tool.↩︎\nAgain, an academic reference!↩︎\nAnother way to think about it: ChatGPT never writes a paragraph for me, but it does occasionally help me find the right word I’m looking for (like a dictionary) or identify the right way to use particular commands in code (like stackoverflow).↩︎\nFor the record, my money would be somewhere much more than “fumbling stumble” but not quite “giant leap” - perhaps “two steps forward and one step back”? Either way, however, I don’t think much is gained from preventing students from using AI. It’s just the next tool in the chain, and it’s not like you see people walking around all day using a slide rule or abacus. Technology marches on in fits and starts regardless.↩︎\nAn all too common mistake made today by many people, for the record.↩︎\nAn arduous, unending, and unenviable task, like Sisyphus with his rock.↩︎\nAI slop: also known as, well, you know.↩︎\nThe technical tools that try to detect LLM writing are imperfect, anyways, resulting in a lot of uncertainty and false positives. Furthermore, experience has taught me that typically, poor used and generated LLM content will often earn poor marks, regardless, and have some pretty clear “tells”. This means I don’t have to care too much if you produce bad work with AI or bad work without AI: it’s just bad work. And your learning, in the final anlaysis, really is up to you. If you want to cut corners and use AI irresponsibly, there’s nothing I can do to stop you. (It’s really just future you that you’re hurting, anyways.) If you want to use LLMs responsibly successfully, well: great! That’s probably the way of the future, anyways, and I hope that this document, along with other elements of my and others’ classes, help you learn how to do so successfully.↩︎"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction to Statistics",
+    "objectID": "assignments/assign7.html",
+    "href": "assignments/assign7.html",
+    "title": "Assignment 7",
     "section": "",
-    "text": "Hello and welcome to the course website for PAI 721, “Introduction to Statistics.” I am your instructor, Professor Jack Reilly. You can find more about me on my website, but in short:\n\nStatistics and data analysis is honestly one of my favorite things to teach. I’ve been teaching them for over 15 years now, at multiple different institutions, and I’m very much looking forward to doing so again this semester with you all.\nI also research and write papers on American politics and quantitative methods and was born and raised right here in beautiful Upstate New York.\n\nPlease take a minute to browse this website, where you’ll find the course overview, topic schedule, class and university academic policies, and more.\nFinally, if you’d like this website and syllabus in an alternate format, please note you can download .pdfs or .docxs of any page on the site. You can also download a full copy of the syllabus here."
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 7"
+    ]
+  },
+  {
+    "objectID": "assignments/assign5.html",
+    "href": "assignments/assign5.html",
+    "title": "Assignment 5",
+    "section": "",
+    "text": "Nothing to see here (yet)",
+    "crumbs": [
+      "📚 Overview",
+      "Assignments",
+      "Assignment 5"
+    ]
+  },
+  {
+    "objectID": "assignments/assign13.html",
+    "href": "assignments/assign13.html",
+    "title": "Assignment 13",
+    "section": "",
+    "text": "Nothing to see here (yet)"
   }
 ]
