@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>content – **PAI 721**</title>
+<title>📚 Content – PAI 721</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -92,11 +121,15 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./overview.html"> 
-<span class="menu-text">📚 Overview</span></a>
+<span class="menu-text">🏠 Overview</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./schedule.html"> 
 <span class="menu-text">📅 Schedule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./content.html" aria-current="page"> 
+<span class="menu-text">📚 Content</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./policies.html"> 
@@ -117,17 +150,318 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#first-half-topics" id="toc-first-half-topics" class="nav-link active" data-scroll-target="#first-half-topics">First Half Topics</a>
+  <ul class="collapse">
+  <li><a href="#introduction-basic-concepts" id="toc-introduction-basic-concepts" class="nav-link" data-scroll-target="#introduction-basic-concepts">Introduction: Basic Concepts</a></li>
+  <li><a href="#unit-i-descriptive-statistics" id="toc-unit-i-descriptive-statistics" class="nav-link" data-scroll-target="#unit-i-descriptive-statistics">Unit I: Descriptive Statistics</a></li>
+  <li><a href="#unit-ii-statistical-relationships" id="toc-unit-ii-statistical-relationships" class="nav-link" data-scroll-target="#unit-ii-statistical-relationships">Unit II: Statistical Relationships</a></li>
+  <li><a href="#unit-iii-producing-data-research-design" id="toc-unit-iii-producing-data-research-design" class="nav-link" data-scroll-target="#unit-iii-producing-data-research-design">Unit III: Producing Data &amp; Research Design</a></li>
+  <li><a href="#unit-iv-probability" id="toc-unit-iv-probability" class="nav-link" data-scroll-target="#unit-iv-probability">Unit IV: Probability</a></li>
+  </ul></li>
+  <li><a href="#second-half-topics" id="toc-second-half-topics" class="nav-link" data-scroll-target="#second-half-topics">Second Half Topics</a>
+  <ul class="collapse">
+  <li><a href="#unit-v-sampling" id="toc-unit-v-sampling" class="nav-link" data-scroll-target="#unit-v-sampling">Unit V: Sampling</a></li>
+  <li><a href="#unit-vi-inference" id="toc-unit-vi-inference" class="nav-link" data-scroll-target="#unit-vi-inference">Unit VI: Inference</a></li>
+  <li><a href="#unit-vii-hypothesis-testing" id="toc-unit-vii-hypothesis-testing" class="nav-link" data-scroll-target="#unit-vii-hypothesis-testing">Unit VII: Hypothesis Testing</a></li>
+  <li><a href="#unit-viii-simple-linear-regression" id="toc-unit-viii-simple-linear-regression" class="nav-link" data-scroll-target="#unit-viii-simple-linear-regression">Unit VIII: Simple Linear Regression</a></li>
+  <li><a href="#unit-ix-less-simple-linear-regression" id="toc-unit-ix-less-simple-linear-regression" class="nav-link" data-scroll-target="#unit-ix-less-simple-linear-regression">Unit IX: Less Simple Linear Regression</a></li>
+  </ul></li>
+  <li><a href="#stata-skills" id="toc-stata-skills" class="nav-link" data-scroll-target="#stata-skills">Stata Skills</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="content.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="content.docx"><i class="bi bi-file-word"></i>MS Word</a></li><li><a href="content.rtf"><i class="bi bi-file"></i>RTF</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">📚 Content</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
 
+
+<section id="first-half-topics" class="level2">
+<h2 class="anchored" data-anchor-id="first-half-topics">First Half Topics</h2>
+<section id="introduction-basic-concepts" class="level3">
+<h3 class="anchored" data-anchor-id="introduction-basic-concepts">Introduction: Basic Concepts</h3>
+<ul>
+<li>Data</li>
+<li>Cases</li>
+<li>Value</li>
+<li>Unit of Analysis</li>
+<li>Estimator</li>
+<li>Two main goals of data analysis</li>
+<li>Hypotheses</li>
+<li>Dependent Variable</li>
+<li>Independent Variable</li>
+<li>Population</li>
+<li>Sample</li>
+<li>Parameters</li>
+<li>Statistics</li>
+<li>Descriptive Statistics</li>
+<li>Inferential Statistics</li>
+</ul>
+</section>
+<section id="unit-i-descriptive-statistics" class="level3">
+<h3 class="anchored" data-anchor-id="unit-i-descriptive-statistics">Unit I: Descriptive Statistics</h3>
+<ul>
+<li>Kinds of variables</li>
+<li>Measurement metrics</li>
+<li>“Exploratory data analysis”</li>
+<li>Kinds of univariate graphics (histogram, box plots, etc)</li>
+<li>Tabulations and crosstabulations</li>
+<li>Shape, center, spread, skew</li>
+<li>Mistakes with graphics: axes, scales, etc</li>
+<li>Measures of central tendency</li>
+<li>Measures of dispersion</li>
+<li>Outliers</li>
+<li>Linear transformations</li>
+<li>Density curves</li>
+<li>Normal distribution</li>
+<li>Z-scores</li>
+<li>Cumulative probabilities</li>
+</ul>
+</section>
+<section id="unit-ii-statistical-relationships" class="level3">
+<h3 class="anchored" data-anchor-id="unit-ii-statistical-relationships">Unit II: Statistical Relationships</h3>
+<ul>
+<li>Kinds of bivariate graphics (scatterplots, linear fits, smooth lines, etc)</li>
+<li>Scatterplot diagnoses: form, direction, strength, outliers</li>
+<li>Transformed data in scatterplots</li>
+<li>Correlation coefficients</li>
+<li>Sample vs.&nbsp;population calculation differences</li>
+<li>Regression
+<ul>
+<li>intercept</li>
+<li>slope</li>
+<li>model component</li>
+<li>stochastic component</li>
+<li>sources of error in modeling</li>
+<li>method of least squares</li>
+<li>model sum of squares</li>
+<li>residual/error sum of squares</li>
+<li>total sum of squares</li>
+<li><span class="math inline">\(R^2\)</span></li>
+<li><span class="math inline">\(\hat Y\)</span></li>
+<li><span class="math inline">\(Y_i\)</span></li>
+<li><span class="math inline">\(\bar Y\)</span></li>
+<li>Calculating the slope (b1) from a correlation coefficient</li>
+<li>Regression coefficients vs correlation coefficients</li>
+<li>Residual plots</li>
+<li>Effects of outliers on regression lines</li>
+<li>Predicted values/expected values of Y given X</li>
+</ul></li>
+<li>Two-way tables for qualitative variables</li>
+</ul>
+</section>
+<section id="unit-iii-producing-data-research-design" class="level3">
+<h3 class="anchored" data-anchor-id="unit-iii-producing-data-research-design">Unit III: Producing Data &amp; Research Design</h3>
+<ul>
+<li>Correlation vs.&nbsp;causation</li>
+<li>Confounding variables</li>
+<li>Conditions for causation
+<ul>
+<li>credible causal link (theory)</li>
+<li>temporal precedence (could Y cause X?)</li>
+<li>covariation (do X and Y move together/covary?)</li>
+<li>no plausible alternative explanations (no confounding variables)</li>
+</ul></li>
+<li>Simpson’s paradox</li>
+<li>Internal validity</li>
+<li>Threats to internal validity
+<ul>
+<li>History</li>
+<li>Maturation/Learning</li>
+<li>Testing</li>
+<li>Instrumentation</li>
+<li>Regression to the mean</li>
+<li>Selection bias</li>
+<li>Mortality</li>
+<li>Social Desirability</li>
+</ul></li>
+<li>External validity</li>
+<li>Threats to external validity
+<ul>
+<li>context</li>
+<li>sampling procedures</li>
+</ul></li>
+<li>Anecdotal data</li>
+<li>Survivor’s bias</li>
+<li>Control through randomization</li>
+<li>Experiments
+<ul>
+<li>treatment</li>
+<li>control</li>
+<li>observations</li>
+<li>random assignment</li>
+</ul></li>
+<li>Surveys
+<ul>
+<li>Population/sample/sampling frame</li>
+<li>Simple random sample</li>
+<li>Stratified random sample</li>
+<li>Multi-stage sampling</li>
+<li>Response rate</li>
+<li>Response bias</li>
+<li>Question framing and ordering effects</li>
+<li>Bias vs.&nbsp;variability (validity vs reliability)</li>
+</ul></li>
+</ul>
+</section>
+<section id="unit-iv-probability" class="level3">
+<h3 class="anchored" data-anchor-id="unit-iv-probability">Unit IV: Probability</h3>
+<ul>
+<li>Random phenomenon</li>
+<li>Independence</li>
+<li>Probability model</li>
+<li>Event</li>
+<li>Long run</li>
+<li>Rules of probability
+<ul>
+<li>Range</li>
+<li>Sample space</li>
+<li>Addition</li>
+<li>Complementarity</li>
+<li>Multiplication</li>
+</ul></li>
+<li>Disjoint events</li>
+<li>Random variable
+<ul>
+<li>Discrete</li>
+<li>Continuous</li>
+</ul></li>
+<li>Probability distribution</li>
+<li>Expected value (mean) of a random variable</li>
+<li>Law of large numbers</li>
+<li>Standard deviation/variance of a random variable</li>
+<li>Rules for means of random variables
+<ul>
+<li>Addition</li>
+<li>Subtraction</li>
+<li>Linear transformations</li>
+</ul></li>
+<li>Conditional probability</li>
+<li>Probability trees</li>
+</ul>
+</section>
+</section>
+<section id="second-half-topics" class="level2">
+<h2 class="anchored" data-anchor-id="second-half-topics">Second Half Topics</h2>
+<section id="unit-v-sampling" class="level3">
+<h3 class="anchored" data-anchor-id="unit-v-sampling">Unit V: Sampling</h3>
+<ul>
+<li>Sample Distribution</li>
+<li>Population Distribution</li>
+<li>Sampling Distribution</li>
+<li>Central Limit Theorem</li>
+<li>Estimators as Random Variables</li>
+<li>Standard Error of the Mean</li>
+<li>Standard Error of a Proportion</li>
+<li>Standard Error of a Count</li>
+</ul>
+</section>
+<section id="unit-vi-inference" class="level3">
+<h3 class="anchored" data-anchor-id="unit-vi-inference">Unit VI: Inference</h3>
+<ul>
+<li>Confidence Intervals
+<ul>
+<li>Point Estimate</li>
+<li>Margin of Error</li>
+<li>Critical Values</li>
+<li>Margin of Error</li>
+<li>Ways to reduce margin of error</li>
+<li>Statistical Power</li>
+<li>Inference when <span class="math inline">\(\sigma\)</span> is unknown</li>
+<li>Student’s T distribution</li>
+<li>Degrees of freedom (<span class="math inline">\(df\)</span>)</li>
+</ul></li>
+</ul>
+</section>
+<section id="unit-vii-hypothesis-testing" class="level3">
+<h3 class="anchored" data-anchor-id="unit-vii-hypothesis-testing">Unit VII: Hypothesis Testing</h3>
+<ul>
+<li>Logic of Hypothesis testing</li>
+<li>Null Hypothesis (<span class="math inline">\(H_0\)</span>)</li>
+<li>Alternative Hypothesis (<span class="math inline">\(H_A\)</span>)</li>
+<li>Types of Hypothesis Test
+<ul>
+<li>Tabular Analysis</li>
+<li>Difference in Means</li>
+<li>Correlation Coefficient</li>
+<li>Regression</li>
+</ul></li>
+<li>How to choose test statistic
+<ul>
+<li>Critical Values (<span class="math inline">\(Z\)</span>, <span class="math inline">\(T\)</span>, <span class="math inline">\(\chi^2\)</span>)</li>
+<li>One-Tail vs Two-Tail Tests</li>
+<li>P-values</li>
+<li>Type I and Type II Errors</li>
+</ul></li>
+</ul>
+</section>
+<section id="unit-viii-simple-linear-regression" class="level3">
+<h3 class="anchored" data-anchor-id="unit-viii-simple-linear-regression">Unit VIII: Simple Linear Regression</h3>
+<ul>
+<li>Bivariate Regression</li>
+<li>Dichotomous Dummy Variables</li>
+<li>Difference in Means Tests via Regression</li>
+<li>Statistical Significance (hypothesis testing, confidence intervals, t- and p- values, etc)</li>
+<li>Substantive/Practical Significance (effect magnitudes, predicted values, <span class="math inline">\(R^2\)</span>)</li>
+</ul>
+</section>
+<section id="unit-ix-less-simple-linear-regression" class="level3">
+<h3 class="anchored" data-anchor-id="unit-ix-less-simple-linear-regression">Unit IX: Less Simple Linear Regression</h3>
+<ul>
+<li>Multiple Regression</li>
+<li>Confounding variables in Multiple Regression</li>
+<li>Multi-category Variables and Dummy Variables</li>
+<li>Standardized coefficients</li>
+<li>Simple model comparison: <span class="math inline">\(R^2\)</span>, effect magnitudes, predicted values</li>
+</ul>
+</section>
+</section>
+<section id="stata-skills" class="level2">
+<h2 class="anchored" data-anchor-id="stata-skills">Stata Skills</h2>
+<ul>
+<li><p>Be able to:</p>
+<ul>
+<li>Load data</li>
+<li>Use a .do file</li>
+<li>Place comments in .do files</li>
+<li>Calculate summary statistics</li>
+<li>Graph scatterplots and histograms</li>
+<li>Recode data</li>
+<li>Tabulate and cross-tabulate data</li>
+<li>Conduct difference in means tests</li>
+<li>Run regressions</li>
+<li>Predict values from regression results</li>
+</ul></li>
+<li><p>Selected Stata commands</p>
+<pre><code> cd, use, clear, tab, sum, tabstat, gen, sort, browse, 
+ twoway, scatter, histogram, graph export, corr, reg, 
+ disp, bys, predict, save, keep, drop, if, recode, 
+ collapse, preserve, restore, ttest</code></pre></li>
+</ul>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
