@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence & LLMs"
+title: "🤖  A Word on Artificial Intelligence & LLMs"
 subtitle: "A Slightly Opinionated Discussion about Education and Technology"
 format: 
     html: default

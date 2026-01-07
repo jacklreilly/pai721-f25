@@ -1,13 +1,11 @@
 ---
-title: "Introduction to Statistics"
+title: "🏫 Campus Academic Resources & Policies"
 format: 
     html: default
     pdf: default
     docx: default
     rtf: default
 ---
-
-# Campus Academic Resources & Policies
 
 The following reflects the approved campus-wide academic policies of Syracuse University.  For more information and detail, please consult the full documentation of University policies [here](https://policies.syr.edu).
 

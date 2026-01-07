@@ -9,9 +9,11 @@ website:
   navbar:
     left:
       - href: overview.qmd
-        text: 📚 Overview
+        text: 🏠 Overview
       - href: schedule.qmd
         text: 📅 Schedule
+      - href: content.qmd
+        text: 📚 Content
       - href: policies.qmd
         text: 🏫 Policies
       - href: ai.qmd

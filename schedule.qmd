@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Statistics"
+title: "📅 Schedule"
 format: 
     html: default
     pdf: default
@@ -7,9 +7,7 @@ format:
     rtf: default
 ---
 
-# Course Topics
-
-## Schedule
+## Course Outline & Readings
 
 | Unit | Topic                        | **STA**                | **PNA** | **MtM**  |
 |------|------------------------------|--------------|--------------|--------------|
@@ -20,7 +18,7 @@ format:
 |      | **Midterm Exam (Thu Oct 16, in class)**|                        ||         |
 | V    | Sampling distributions       | 5.1–5.3                |7,8| 6       |
 | VI   | Inference                    | 6.1–6.4                |10| 7       |
-| VII  | Inference for distributions  | 7.1–7.2                |11| 8, 9    |
+| VII  | Hypothesis Testing           | 7.1–7.2                |11| 8, 9    |
 | VIII | Simple linear regression     | 10.1                   |17| 10      |
 | IX*  | Less simple regression       | 11.1–11.2              |20| 11, 12  |
 |      | **Final Exam: December 11, 9 AM - 12 Noon, Eggers 060 ** |        |         |
