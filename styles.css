@@ -1,1 +1,6 @@
 /* css styles */
+
+.navbar,
+.navbar.bg-primary {
+  background-color: #FF8E00;
+}
