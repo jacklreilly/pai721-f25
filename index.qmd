@@ -1,20 +1,46 @@
----
-title: "Introduction to Statistics"
-subtitle: "PAI 721 - Syracuse University"
-author: "Prof. Jack Reilly"
-date: "2025-09-01"
-date-format: "F2025"
----
-::: {style="text-align:left;"}
-![](images/jlr_headshot_syr.jpg){width=100px}
+
+
+```{=html}
+
+<div class="row align-items-center g-4 mb-3">
+
+  <div class="col-12 col-lg-8">
+    <h1 class="display-5 fw-bold mb-3">Introduction to Statistics</h1>
+
+    <p class="lead text-secondary mb-3">
+      Learn how to use quantitative data to inform decisions in public administration, public policy, and international affairs.
+    </p>
+
+    <div class="text-secondary">
+      <div><strong>PAI 721</strong> • Fall 2025</div>
+      <div>Maxwell School of Citizenship &amp; Public Affairs</div>
+      <div>Syracuse University</div>
+    </div>
+  </div>
+
+</div>
+
+```
+
+::: columns
+::: {.column width="50%"}
+::: {.callout-note title="Instructor"}
+- 👤 [Dr. Jack Reilly](https://jacklreilly.github.io)
+- 🏛️ Eggers Hall 225
+- ✉️ [jlreilly@syr.edu](mailto:jlreilly@syr.edu)
+:::
 :::
 
-Hello and welcome to the course website for PAI 721, "Introduction to Statistics." I am your instructor, [Professor Jack Reilly](https://www.maxwell.syr.edu/directory/jack-reilly).  You can find more about me on my [website](https://jacklreilly.github.io), but in short: 
+::: {.column width="50%"}
+::: {.callout-note title="Course details"}
+- 📅 Tuesdays & Thursdays
+- 🕒 9:30 – 10:50 PM
+- 📍 Eggers Hall 
+:::
+:::
+:::
 
-- Statistics and data analysis is honestly one of my favorite things to teach. I've been teaching them for over 15 years now, at [multiple](https://www.ucdavis.edu) [different](https://www.ncf.edu) [institutions](https://www.syracuse.edu/), and I'm very much looking forward to doing so again this semester with you all.  
+Please browse the course pages for [course overview](overview.qmd), [schedule](schedule.qmd), course and campus [policies](policies.qmd), and [guidelines](ai.qmd) for initially thinking about use of AI in this class.  If you would prefer to have the syllabus as a single page, [go here](syllabus.qmd).  And note you can download any page on the website you like as a pdf or formatted document.
 
-- I also research and write papers on [American politics and quantitative methods](https://jacklreilly.github.io/research) and was born and raised right here in beautiful [Upstate New York](https://discoverupstateny.com).  
+I look forward to seeing you in class.
 
-Please take a minute to browse this website, where you'll find the course [overview](overview.qmd), topic [schedule](schedule.qmd), class and university academic [policies](policies.qmd), and [more](ai.qmd).
-
-Finally, if you'd like this website and syllabus in an alternate format, please note you can download .pdfs or .docxs of any page on the site.  You can also download a full copy of the [syllabus here](syllabus.qmd).
