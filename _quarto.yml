@@ -3,10 +3,11 @@ project:
   output-dir: _site
 
 website:
-  title: "**PAI 721**"
+  title: "Introduction to Statistics"
   site-url: https://jacklreilly.github.io/pai721-f25/
   repo-url: https://github.com/jacklreilly/pai721-f25
   navbar:
+    title: "**Introduction to Statistics**"
     right:
       - href: overview.qmd
         text: 🏠 Overview
