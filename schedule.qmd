@@ -16,7 +16,7 @@ format:
 | III  | Producing data               | 3.1–3.4                |2, 3| 4       |
 | IV   | Probability                  | 4.1–4.5                |7, 8| 5       |
 |      | **Midterm Exam (Thu Oct 16, in class)**|                        ||         |
-| V    | Sampling distributions       | 5.1–5.3                |7,8| 6       |
+| V    | Sampling distributions       | 5.1–5.3                |7, 8| 6       |
 | VI   | Inference                    | 6.1–6.4                |10| 7       |
 | VII  | Hypothesis Testing           | 7.1–7.2                |11| 8, 9    |
 | VIII | Simple linear regression     | 10.1                   |17| 10      |
@@ -41,7 +41,7 @@ You can use any book you wish (although I encourage you to make sure its style s
 
 ## A Word on Reading
 
-Reading in a statistics class is different from a substantive class. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover detail we don’t emphasize in class (and vice versa).
+Reading in a statistics course is different from a substantive course. You should generally keep up with readings, but you are not expected to thoroughly digest them by the day we cover them in class. The textbooks serve as an additional resource to lectures and help you understand the material more effectively. They may also cover details we don’t emphasize in class (and vice versa).
 
 Each book has its strengths:
 
