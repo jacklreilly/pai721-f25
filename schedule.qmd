@@ -49,6 +49,6 @@ Each book has its strengths:
 - **PNA** *Applied Statistics for Public and Nonprofit Administration*: focused on applied public administration, still detailed.  Sequenced differently.
 - **MtM** *Minus the Math*: conceptual, common-language, intuition-focused, but light on probability and detail.
 
-You may use any as your primary reference. If you need more depth, consult **STA** or **PNA**. If you want lighter or more intuitive explanations, lean on **MtM**. **STA** is the "default" text for the class - the one the syllabus was built around. **PNA** has lots of good examples from Public Administration, but the content sequencing is more intuitive in **STA**, so we follow that order.  
+You may use any as your primary reference. If you need more depth, consult **STA** or **PNA**. If you want lighter or more intuitive explanations, lean on **MtM**. **STA** is the "default" text for the class - the one the syllabus was built around. **PNA** has lots of good examples from public administration, but the content sequencing is more intuitive in **STA**, so we follow that order.  
 
 We will cover the above material in sequence, with particular readings recommended for each day announced in class (and in slides) ahead of time where appropriate. In general, if you need to prioritize, make sure to focus on your weekly assignment first, and readings second.
